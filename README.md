@@ -33,6 +33,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Jet](https://jet.com) | USA, NY, New Jerseys | E-commerce | [Github](https://github.com/jet?utf8=✓&q=&type=&language=f%23)
 [Lambda Factory](https://lambdafactory.io) | Remote | Software & Consulting | [GitHub](https://github.com/LambdaFactory), [Twitter](https://twitter.com/Lambda_Factory) | Ok
 [Locai Solutions](https://locaisolutions.com) | Remote, U.S. | eGrocery | | Ok
+[Masse](https://shopmasse.com) | USA, NY, New York | eCommerce | [Twitter](https://twitter.com/shop_masse), [Instagram](https://instagram.com/shop_masse)
 [Olo](https://www.olo.com) | USA, NY, New York | Restauration | [Github](https://github.com/ololabs?language=f%23)| Ok
 [Perpetuum](https://www.perpetuum.com) | UK, Southampton | Railway Condition Monitoring | |
 [Property With Potential](https://www.olo.com) | UK,London | Software | [Stackshare](https://stackshare.io/property-with-potential/property-with-potential)
