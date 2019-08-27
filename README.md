@@ -22,6 +22,9 @@ Some of these companies support remote hires. Where that information is availabl
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
 [Huddle](https://www.huddle.com/) | UK, London | Software | [Github](https://github.com/Huddle?utf8=✓&q=&type=&language=f%23)
+[IntelliFactory](http://intellifactory.com) | Hungary, Budapest | Software | [Github](https://github.com/intellifactory?utf8=✓&q=&type=&language=f%23)
 [Jet](https://jet.com) | USA, NY, New Jerseys | E-commerce | [Github](https://github.com/jet?utf8=✓&q=&type=&language=f%23)
 [Olo](https://www.olo.com) | USA, NY, New York | Restauration | [Github](https://github.com/ololabs?language=f%23)| Ok
 [Property With Potential](https://www.olo.com) | UK,London | Software | [Stackshare](https://stackshare.io/property-with-potential/property-with-potential)
+
+http://intellifactory.com
