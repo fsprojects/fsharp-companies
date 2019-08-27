@@ -1,7 +1,7 @@
 # fsharp-companies
 Community curated list of companies that use F#
 
-This list has been made in collaboration with members of [/r/fsharp](https://www.reddit.com/r/haskell)
+This list has been made in collaboration with members of [/r/fsharp](https://www.reddit.com/r/fsharp)
 
 There are similar lists for companies that use the following functional languages: 
 
