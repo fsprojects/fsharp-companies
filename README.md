@@ -31,4 +31,5 @@ Some of these companies support remote hires. Where that information is availabl
 [Olo](https://www.olo.com) | USA, NY, New York | Restauration | [Github](https://github.com/ololabs?language=f%23)| Ok
 [Property With Potential](https://www.olo.com) | UK,London | Software | [Stackshare](https://stackshare.io/property-with-potential/property-with-potential)
 [Robotmaster](https://www.robotmaster.com/en/) | Canada, Montreal, Quebec | Robotics | ?
+[Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
 [The Trainline](https://www.thetrainline.com) | UK,London | Software | [Stackshare](https://stackshare.io/trainline)
