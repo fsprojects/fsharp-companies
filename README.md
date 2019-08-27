@@ -13,6 +13,8 @@ If you see a company on the list that doesn't exist anymore, or does not use F# 
 
 Many of these companies have some kind of F# development, but it is often in one or a few particular teams rather than company-wide.
 
+When adding a new company, please keep the name in alphabetical order!
+
 ### Remote
 
 Some of these companies support remote hires. Where that information is available, it has been indicated in the `Remote OK` column below. Timezone and/or country restrictions might apply.
@@ -21,12 +23,15 @@ Some of these companies support remote hires. Where that information is availabl
 
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
+[Amyris](https://amyris.com/) | USA, CA, Emeryville | Synthetic Biology | [Twitter](https://twitter.com/amyris)
 [Arkadium](https://inhabit.arkadium.com/) | USA, NY / Russia, Krasnodar | Software | [Twitter](https://twitter.com/Arkadium)
 [Binary Defense](https://www.binarydefense.com/) | Akron, OH | Infosec/Endpoint Monitoring | [Twitter](https://twitter.com/binary_defense?lang=en) | Ok
 [BinaryGears](https://www.binarygears.de/) | Germany, Frankfurt | Software | [GitHub](https://github.com/ronaldschlenker) | Ok
+[Compositional IT](https://www.compositional-it.com.com) | United Kingdom, London | Software | [GitHub](https://github.com/compositionalit)
 [Cvent](https://www.cvent.com) | USA, VA, McLean | Software | [Github](https://github.com/cvent?utf8=✓&q=&type=&language=f%23)
 [D-Edge](https://www.d-edge.com/) | Paris, France | Hospitality | [Twitter](https://twitter.com/D_EDGE_Hosp)
 [Datto](https://www.datto.com/) | UK, Amersham | Software | [Twitter](https://twitter.com/datto) | Ok
+[Demetrix](https://www.demetrixbio.com) | Emeryville, CA, USA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
 [Ekon Benefits](https://ekonbenefits.com) | USA, MO, Saint Louis | Financial | [Github](https://github.com/ekonbenefits?utf8=✓&q=&type=public&language=f%23)
 [FundApps](https://www.fundapps.co) | UK, London | Software | [Stackshare](https://stackshare.io/fundapps#technology)
 [Genetec](https://www.genetec.com)| Canada, Montreal, Quebec | Security| [Twitter](https://twitter.com/genetec/status/984485239908126721)
@@ -44,7 +49,6 @@ Some of these companies support remote hires. Where that information is availabl
 [Robotmaster](https://www.robotmaster.com/en/) | Canada, Montreal, Quebec | Robotics | ?
 [Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
 [The Trainline](https://www.thetrainline.com) | UK,London | Software | [Stackshare](https://stackshare.io/trainline)
-[Demetrix](https://www.demetrixbio.com) | Emeryville, CA, USA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
 [Veepee](https://www.veepee.com) | France, Saint-Denis | E-commerce | [Twitter](https://twitter.com/FRchrdsn/status/1149414855876784129)
 [Wavecom](https://wavecom.io) | Moscow, Russia | Software | [Website](https://wavecom.io/) | Ok
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
