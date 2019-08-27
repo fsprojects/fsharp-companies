@@ -23,6 +23,7 @@ Some of these companies support remote hires. Where that information is availabl
 
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
+[Amyris](https://amyris.com/) | USA, CA, Emeryville | Synthetic Biology | [Twitter](https://twitter.com/amyris)
 [Arkadium](https://inhabit.arkadium.com/) | USA, NY / Russia, Krasnodar | Software | [Twitter](https://twitter.com/Arkadium)
 [Binary Defense](https://www.binarydefense.com/) | Akron, OH | Infosec/Endpoint Monitoring | [Twitter](https://twitter.com/binary_defense?lang=en) | Ok
 [BinaryGears](https://www.binarygears.de/) | Germany, Frankfurt | Software | [GitHub](https://github.com/ronaldschlenker) | Ok
