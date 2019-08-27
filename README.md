@@ -21,6 +21,7 @@ Some of these companies support remote hires. Where that information is availabl
 
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
+[Arkadium](https://inhabit.arkadium.com/) | USA, NY / Russia, Krasnodar | Software | [Twitter](https://twitter.com/Arkadium)
 [Binary Defense](https://www.binarydefense.com/) | Akron, OH | Infosec/Endpoint Monitoring | [Twitter](https://twitter.com/binary_defense?lang=en) | Ok
 [BinaryGears](https://www.binarygears.de/) | Germany, Frankfurt | Software | [GitHub](https://github.com/ronaldschlenker) | Ok
 [Cvent](https://www.cvent.com) | USA, VA, McLean | Software | [Github](https://github.com/cvent?utf8=✓&q=&type=&language=f%23)
@@ -44,4 +45,3 @@ Some of these companies support remote hires. Where that information is availabl
 [Demetrix](https://www.demetrixbio.com) | Emeryville, CA, USA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
 [Veepee](https://www.veepee.com) | France, Saint-Denis | E-commerce | [Twitter](https://twitter.com/FRchrdsn/status/1149414855876784129)
 [Wavecom](https://wavecom.io) | Moscow, Russia | Software | [Website](https://wavecom.io/) | Ok
-[Arkadium](https://inhabit.arkadium.com/) | USA, NY / Russia, Krasnodar | Software | [Twitter](https://twitter.com/Arkadium)
