@@ -54,6 +54,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Perpetuum](https://www.perpetuum.com) | UK, Southampton | Railway Condition Monitoring | |
 [Prodrive Technologies](https://prodrive-technologies.com/) | Netherlands, Son | Manufacturing | [Job Posting](https://prodrive-technologies.com/careers/vacancies/back-end-software-developer/) | No
 [Property With Potential](https://www.olo.com) | UK,London | Software | [Stackshare](https://stackshare.io/property-with-potential/property-with-potential)
+[Safe Banking Systems (Part of Accuity)](https://accuity.com/product/firco-screening-insight-for-accounts/) | NYC, NY and Kennesaw, GA | RiskTech | [Github](https://github.com/BayardRock) | No
 [Robotmaster](https://www.robotmaster.com/en/) | Canada, Montreal, Quebec | Robotics | ?
 [Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
 [The Trainline](https://www.thetrainline.com) | UK,London | Software | [Stackshare](https://stackshare.io/trainline)
