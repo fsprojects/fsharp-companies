@@ -47,6 +47,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Lambda Factory](https://lambdafactory.io) | Remote | Software & Consulting | [GitHub](https://github.com/LambdaFactory), [Twitter](https://twitter.com/Lambda_Factory) | Ok
 [Locai Solutions](https://locaisolutions.com) | Remote, U.S. | eGrocery | | Ok
 [Masse](https://shopmasse.com) | USA, NY, New York | eCommerce | [Twitter](https://twitter.com/shop_masse), [Instagram](https://instagram.com/shop_masse)
+[Microsoft](https://www.microsoft.com) | Worldwide | Software | [GitHub](https://github.com/dotnet/fsharp) | Ok
 [Millenium Management](https://www.mlp.com/home/) | USA, NY, New York | Finance | [Job Posting](https://mlp.wd5.myworkdayjobs.com/en-US/mlpcareers/job/New-York-NY---666-5th-Ave/C--Software-Engineer_REQ-8518-1)
 [msu solutions GmbH](https://msu-solutions.de/) | Germany | Software | |
 [Olo](https://www.olo.com) | USA, NY, New York | Restauration | [Github](https://github.com/ololabs?language=f%23)| Ok
