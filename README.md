@@ -33,6 +33,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Compositional IT](https://www.compositional-it.com) | United Kingdom, London | Software | [GitHub](https://github.com/compositionalit)
 [Cvent](https://www.cvent.com) | USA, VA, McLean | Software | [Github](https://github.com/cvent?utf8=✓&q=&type=&language=f%23)
 [D-Edge](https://www.d-edge.com/) | Paris, France | Hospitality | [Twitter](https://twitter.com/D_EDGE_Hosp)
+[Danpower](https://www.danpower.de/) | DE, Potsdam | EnergySupply | | Ok
 [Datto](https://www.datto.com/) | UK, Amersham | Software | [Twitter](https://twitter.com/datto) | Ok
 [Demetrix](https://www.demetrixbio.com) | Emeryville, CA, USA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
 [DEX Imaging](https://www.deximaging.com) | Tampa, FL, USA | Office Equipment | [Twitter](https://twitter.com/deximaging) | Ok
