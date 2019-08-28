@@ -23,6 +23,7 @@ Some of these companies support remote hires. Where that information is availabl
 
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
+[69 Grad](https://69grad.de/) | Germany, Munich | Software | [Blog](https://thomasbandt.com) | Ok
 [Amyris](https://amyris.com/) | USA, CA, Emeryville | Synthetic Biology | [Twitter](https://twitter.com/amyris)
 [Arkadium](https://inhabit.arkadium.com/) | USA, NY / Russia, Krasnodar | Software | [Twitter](https://twitter.com/Arkadium)
 [Bazinga Technologies](https://mybazinga.com/) | Canada, Vancouver, BC | Software | [Twitter](https://twitter.com/getbazinga)
