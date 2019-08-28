@@ -59,3 +59,4 @@ Some of these companies support remote hires. Where that information is availabl
 [Veepee](https://www.veepee.com) | France, Saint-Denis | E-commerce | [Twitter](https://twitter.com/FRchrdsn/status/1149414855876784129)
 [Wavecom](https://wavecom.io) | Moscow, Russia | Software | [Website](https://wavecom.io/) | Ok
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
+(still-unnamed startup in stealth mode) | around Hong Kong: Guangzhou,Macau,Shenzhen,Taiwan,etc | CryptoCurrency | [HackerNews](https://news.ycombinator.com/item?id=20326739) | Ok
