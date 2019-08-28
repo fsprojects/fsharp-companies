@@ -56,6 +56,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Robotmaster](https://www.robotmaster.com/en/) | Canada, Montreal, Quebec | Robotics | ?
 [Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
 [The Trainline](https://www.thetrainline.com) | UK,London | Software | [Stackshare](https://stackshare.io/trainline)
+[Trampoline](https://trampolineup.com.com) | Italy, Turin | Software/IoT | [GitHub](https://github.com/kiotlog)
 [Veepee](https://www.veepee.com) | France, Saint-Denis | E-commerce | [Twitter](https://twitter.com/FRchrdsn/status/1149414855876784129)
 [Wavecom](https://wavecom.io) | Moscow, Russia | Software | [Website](https://wavecom.io/) | Ok
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
