@@ -50,6 +50,7 @@ Some of these companies support remote hires. Where that information is availabl
 [msu solutions GmbH](https://msu-solutions.de/) | Germany | Software | |
 [Olo](https://www.olo.com) | USA, NY, New York | Restauration | [Github](https://github.com/ololabs?language=f%23)| Ok
 [Own](https://www.weown.com) | Germany, Munich | FinTech | [GitHub](https://github.com/OwnMarket?language=f%23)|
+[Peano System Inc.](https://peano-system.jp) | Remote, based at Aichi, Japan | Software | [GitHub](https://github.com/peano-system) [JobPosting](https://peano-system.jp/jobs) [PeanoCurvesApp](https://peano-curves.psapp.jp) | Ok
 [Perpetuum](https://www.perpetuum.com) | UK, Southampton | Railway Condition Monitoring | |
 [Prodrive Technologies](https://prodrive-technologies.com/) | Netherlands, Son | Manufacturing | [Job Posting](https://prodrive-technologies.com/careers/vacancies/back-end-software-developer/) | No
 [Property With Potential](https://www.olo.com) | UK,London | Software | [Stackshare](https://stackshare.io/property-with-potential/property-with-potential)
