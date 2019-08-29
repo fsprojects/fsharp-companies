@@ -43,6 +43,7 @@ Some of these companies support remote hires. Where that information is availabl
 [GreenPowerMonitor](www.greenpowermonitor.com) | Spain, Barcelona | Renewable Energy | [Github](https://github.com/GreenPowerMonitor) | Ok
 [G-Research](https://www.gresearch.co.uk/)| UK, London | Finance | [Twitter](https://twitter.com/GRESEARCHjobs)
 [Huddle](https://www.huddle.com/) | UK, London | Software | [Github](https://github.com/Huddle?utf8=✓&q=&type=&language=f%23)
+[IDTechEx](https://www.idtechex.com.com/) | UK, Cambridge | Market Research |
 [IntelliFactory](http://intellifactory.com) | Hungary, Budapest | Software | [Github](https://github.com/intellifactory?utf8=✓&q=&type=&language=f%23)
 [Jet](https://jet.com) | USA, NY, New Jerseys | E-commerce | [Github](https://github.com/jet?utf8=✓&q=&type=&language=f%23)
 [Lambda Factory](https://lambdafactory.io) | Remote | Software & Consulting | [GitHub](https://github.com/LambdaFactory), [Twitter](https://twitter.com/Lambda_Factory) | Ok
