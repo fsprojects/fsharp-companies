@@ -52,6 +52,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Microsoft](https://www.microsoft.com) | Worldwide | Software | [GitHub](https://github.com/dotnet/fsharp) | Ok
 [Millenium Management](https://www.mlp.com/home/) | USA, NY, New York | Finance | [Job Posting](https://mlp.wd5.myworkdayjobs.com/en-US/mlpcareers/job/New-York-NY---666-5th-Ave/C--Software-Engineer_REQ-8518-1)
 [msu solutions GmbH](https://msu-solutions.de/) | Germany | Software | |
+[NRK](https://www.nrk.no/) | Norway, Oslo | Media | [GitHub](https://github.com/nrkno) | | 
 [Olo](https://www.olo.com) | USA, NY, New York | Restauration | [Github](https://github.com/ololabs?language=f%23)| Ok
 [Own](https://www.weown.com) | Germany, Munich | FinTech | [GitHub](https://github.com/OwnMarket?language=f%23)|
 [Peano System Inc.](https://peano-system.jp) | Remote, based at Aichi, Japan | Software | [GitHub](https://github.com/peano-system) [JobPosting](https://peano-system.jp/jobs) [PeanoCurvesApp](https://peano-curves.psapp.jp) | Ok
