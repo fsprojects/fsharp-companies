@@ -63,8 +63,8 @@ Some of these companies support remote hires. Where that information is availabl
 [Property With Potential](https://propertytorenovate.co.uk/) | UK,London | Software | [Stackshare](https://stackshare.io/property-with-potential/property-with-potential)
 [Quicken Loans](https://www.quickenloans.com) | USA, MI, Detroit | FinTech | | OK
 [Robotmaster](https://www.robotmaster.com/en/) | Canada, Montreal, Quebec | Robotics | ?
-[SfSync](https://sfsync.online/) | Ukraine, Lviv/Odesa | Software (ISV) | [Facebook](https://www.facebook.com/sfsync/) | Ok (Europe only)
 [Safe Banking Systems (Part of Accuity)](https://accuity.com/product/firco-screening-insight-for-accounts/) | NYC, NY and Kennesaw, GA | RiskTech | [Github](https://github.com/BayardRock) | No
+[SfSync](https://sfsync.online/) | Ukraine, Lviv/Odesa | Software (ISV) | [Facebook](https://www.facebook.com/sfsync/) | Ok (Europe only)
 [Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
 [Tactics](https://www.tactics.be) | Belgium, Kapellen | Software | [Website](https://www.tactics.be) | Ok (Europe only)
 [The Secret Circle Solutions](https://secretcircle.solutions/) | Ukraine, Kherson/Odesa | Software development services | [Website](https://secretcircle.solutions/), [Facebook](https://www.facebook.com/scrtcrcl/) | Ok (Europe only)
