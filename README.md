@@ -44,6 +44,7 @@ Some of these companies support remote hires. Where that information is availabl
 [G-Research](https://www.gresearch.co.uk/)| UK, London | Finance | [Twitter](https://twitter.com/GRESEARCHjobs)
 [Huddle](https://www.huddle.com/) | UK, London | Software | [Github](https://github.com/Huddle?utf8=✓&q=&type=&language=f%23)
 [IntelliFactory](http://intellifactory.com) | Hungary, Budapest | Software | [Github](https://github.com/intellifactory?utf8=✓&q=&type=&language=f%23)
+[iVendi](https://ivendi.com) | UK, Manchester | Software | [Twitter](https://twitter.com/iVendiLtd) | OK (part time)
 [Jet](https://jet.com) | USA, NY, New Jerseys, Bangalore (India) | E-commerce | [Github](https://github.com/jet?utf8=✓&q=&type=&language=f%23)
 [Lambda Factory](https://lambdafactory.io) | Remote | Software & Consulting | [GitHub](https://github.com/LambdaFactory), [Twitter](https://twitter.com/Lambda_Factory) | Ok
 [Locai Solutions](https://locaisolutions.com) | Remote, U.S. | eGrocery | | Ok
@@ -51,17 +52,21 @@ Some of these companies support remote hires. Where that information is availabl
 [Microsoft](https://www.microsoft.com) | Worldwide | Software | [GitHub](https://github.com/dotnet/fsharp) | Ok
 [Millenium Management](https://www.mlp.com/home/) | USA, NY, New York | Finance | [Job Posting](https://mlp.wd5.myworkdayjobs.com/en-US/mlpcareers/job/New-York-NY---666-5th-Ave/C--Software-Engineer_REQ-8518-1)
 [msu solutions GmbH](https://msu-solutions.de/) | Germany | Software | |
+[NRK](https://www.nrk.no/) | Norway, Oslo | Media | [GitHub](https://github.com/nrkno) | | 
 [Olo](https://www.olo.com) | USA, NY, New York | Restauration | [Github](https://github.com/ololabs?language=f%23)| Ok
 [Own](https://www.weown.com) | Germany, Munich | FinTech | [GitHub](https://github.com/OwnMarket?language=f%23)|
 [Peano System Inc.](https://peano-system.jp) | Remote, based at Aichi, Japan | Software | [GitHub](https://github.com/peano-system) [JobPosting](https://peano-system.jp/jobs) [PeanoCurvesApp](https://peano-curves.psapp.jp) | Ok
 [Perpetuum](https://www.perpetuum.com) | UK, Southampton | Railway Condition Monitoring | |
 [Prodrive Technologies](https://prodrive-technologies.com/) | Netherlands, Son | Manufacturing | [Job Posting](https://prodrive-technologies.com/careers/vacancies/back-end-software-developer/) | No
 [Property With Potential](https://propertytorenovate.co.uk/) | UK,London | Software | [Stackshare](https://stackshare.io/property-with-potential/property-with-potential)
+[Quicken Loans](https://www.quickenloans.com) | USA, MI, Detroit | FinTech | | OK
 [Robotmaster](https://www.robotmaster.com/en/) | Canada, Montreal, Quebec | Robotics | ?
+[SfSync](https://sfsync.online/) | Ukraine, Lviv/Odesa | Software (ISV) | [Facebook](https://www.facebook.com/sfsync/) | Ok (Europe only)
 [Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
 [Tactics](https://www.tactics.be) | Belgium, Kapellen | Software | [Website](https://www.tactics.be) | Ok (Europe only)
+[The Secret Circle Solutions](https://secretcircle.solutions/) | Ukraine, Kherson/Odesa | Software development services | [Website](https://secretcircle.solutions/), [Facebook](https://www.facebook.com/scrtcrcl/) | Ok (Europe only)
 [The Trainline](https://www.thetrainline.com) | UK,London | Software | [Stackshare](https://stackshare.io/trainline)
-[Trampoline](https://trampolineup.com.com) | Italy, Turin | Software/IoT | [GitHub](https://github.com/kiotlog)
+[Trampoline](https://trampolineup.com) | Italy, Turin | Software/IoT | [GitHub](https://github.com/kiotlog)
 [Veepee](https://www.veepee.com) | France, Saint-Denis | E-commerce | [Twitter](https://twitter.com/FRchrdsn/status/1149414855876784129)
 [Wavecom](https://wavecom.io) | Moscow, Russia | Software | [Website](https://wavecom.io/) | Ok
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
