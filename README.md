@@ -41,10 +41,10 @@ Some of these companies support remote hires. Where that information is availabl
 [Ekon Benefits](https://ekonbenefits.com) | USA, MO, Saint Louis | Financial | [Github](https://github.com/ekonbenefits?utf8=✓&q=&type=public&language=f%23)
 [FundApps](https://www.fundapps.co) | UK, London | Software | [Stackshare](https://stackshare.io/fundapps#technology)
 [Genetec](https://www.genetec.com)| Canada, Montreal, Quebec | Security| [Twitter](https://twitter.com/genetec/status/984485239908126721)
-[GreenPowerMonitor](www.greenpowermonitor.com) | Spain, Barcelona | Renewable Energy | [Github](https://github.com/GreenPowerMonitor) | Ok
+[GreenPowerMonitor](https://www.greenpowermonitor.com) | Spain, Barcelona | Renewable Energy | [Github](https://github.com/GreenPowerMonitor) | Ok
 [G-Research](https://www.gresearch.co.uk/)| UK, London | Finance | [Twitter](https://twitter.com/GRESEARCHjobs)
 [Huddle](https://www.huddle.com/) | UK, London | Software | [Github](https://github.com/Huddle?utf8=✓&q=&type=&language=f%23)
-[IDTechEx](https://www.idtechex.com.com/) | UK, Cambridge | Market Research |
+[IDTechEx](https://www.idtechex.com) | UK, Cambridge | Market Research |
 [IntelliFactory](http://intellifactory.com) | Hungary, Budapest | Software | [Github](https://github.com/intellifactory?utf8=✓&q=&type=&language=f%23)
 [iVendi](https://ivendi.com) | UK, Manchester | Software | [Twitter](https://twitter.com/iVendiLtd) | OK (part time)
 [Jet](https://jet.com) | USA, NY, New Jerseys, Bangalore (India) | E-commerce | [Github](https://github.com/jet?utf8=✓&q=&type=&language=f%23)
