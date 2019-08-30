@@ -40,6 +40,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Demetrix](https://www.demetrixbio.com) | Emeryville, CA, USA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
 [DEX Imaging](https://www.deximaging.com) | Tampa, FL, USA | Office Equipment | [Twitter](https://twitter.com/deximaging) | Ok
 [Ekon Benefits](https://ekonbenefits.com) | USA, MO, Saint Louis | Financial | [Github](https://github.com/ekonbenefits?utf8=✓&q=&type=public&language=f%23)
+[Exercism](https://exercism.io/) | Online | Software | [Github](https://github.com/exercism?utf8=%E2%9C%93&q=&type=&language=f%23)
 [Fronius](https://fronius.com/) | Austria, Wels | Electrical Equipment | [Website](https://fronius.com), [Facebook](https://www.facebook.com/fronius.int/) | 
 [FundApps](https://www.fundapps.co) | UK, London | Software | [Stackshare](https://stackshare.io/fundapps#technology)
 [Genetec](https://www.genetec.com)| Canada, Montreal, Quebec | Security| [Twitter](https://twitter.com/genetec/status/984485239908126721)
