@@ -33,6 +33,7 @@ Some of these companies support remote hires. Where that information is availabl
 [CN Group CZ](https://www.cngroup.dk/) | Czech Republic, Prague | Software | [Twitter](https://twitter.com/cngroup_cz), [Website](https://www.cngroup.dk) | 
 [Compositional IT](https://www.compositional-it.com) | United Kingdom, London | Software | [GitHub](https://github.com/compositionalit)
 [Copenhagen Software](https://copenhagensoftware.com) | Denmark, Copenhagen / Lithuania, Vilnius | Software | [Twitter](https://twitter.com/cphsoft/status/1114106216509267968) | Ok
+[C Tech Development Corp](https://www.ctech.com) | USA - Portland, ME / Sarasota, FL | Software | [Website](https://ctech.com) | Ok
 [Cvent](https://www.cvent.com) | USA, VA, McLean | Software | [Github](https://github.com/cvent?utf8=✓&q=&type=&language=f%23)
 [D-Edge](https://www.d-edge.com/) | Paris, France | Hospitality | [Twitter](https://twitter.com/D_EDGE_Hosp)
 [Danpower](https://www.danpower.de/) | DE, Potsdam | EnergySupply | | Ok
