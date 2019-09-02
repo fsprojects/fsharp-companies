@@ -39,7 +39,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Datto](https://www.datto.com/) | UK, Amersham | Software | [Twitter](https://twitter.com/datto) | Ok
 [Demetrix](https://www.demetrixbio.com) | Emeryville, CA, USA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
 [DEX Imaging](https://www.deximaging.com) | Tampa, FL, USA | Office Equipment | [Twitter](https://twitter.com/deximaging) | Ok
-[Edelweiss Connect GmbH](https://edelweissconnect.com) Basel, Switzerland | Toxicology | [Github](https://github.com/douglasconnect) | Ok
+[Edelweiss Connect GmbH](https://edelweissconnect.com) | Basel, Switzerland | Toxicology | [Github](https://github.com/douglasconnect) | Ok
 [Ekon Benefits](https://ekonbenefits.com) | USA, MO, Saint Louis | Financial | [Github](https://github.com/ekonbenefits?utf8=✓&q=&type=public&language=f%23)
 [Exercism](https://exercism.io/) | Online | Software | [Github](https://github.com/exercism?utf8=%E2%9C%93&q=&type=&language=f%23)
 [Fronius](https://fronius.com/) | Austria, Wels | Electrical Equipment | [Website](https://fronius.com), [Facebook](https://www.facebook.com/fronius.int/) | 
