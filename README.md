@@ -34,6 +34,7 @@ There are similar lists for companies that use the following functional language
 [Ekon Benefits](https://ekonbenefits.com) | USA, MO, Saint Louis | Financial | [Github](https://github.com/ekonbenefits?utf8=✓&q=&type=public&language=f%23)
 [Exercism](https://exercism.io/) | Online | Software | [Github](https://github.com/exercism?utf8=%E2%9C%93&q=&type=&language=f%23)
 [Fronius](https://fronius.com/) | Austria, Wels | Electrical Equipment | [Website](https://fronius.com), [Facebook](https://www.facebook.com/fronius.int/) | 
+[Fund Ourselves](https://www.fundourselves.com) | UK, London | FinTech, P2P | [Twitter](https://twitter.com/fundourselves) | 
 [FundApps](https://www.fundapps.co) | UK, London | Software | [Stackshare](https://stackshare.io/fundapps#technology)
 [Genetec](https://www.genetec.com)| Canada, Montreal, Quebec | Security| [Twitter](https://twitter.com/genetec/status/984485239908126721)
 [GreenPowerMonitor](https://www.greenpowermonitor.com) | Spain, Barcelona | Renewable Energy | [Github](https://github.com/GreenPowerMonitor) | Ok
