@@ -77,6 +77,7 @@ Some of these companies support remote hires. Where that information is availabl
 [The Secret Circle Solutions](https://secretcircle.solutions/) | Ukraine, Kherson/Odesa | Software development services | [Website](https://secretcircle.solutions/), [Facebook](https://www.facebook.com/scrtcrcl/) | Ok (Europe only)
 [The Trainline](https://www.thetrainline.com) | UK,London | Software | [Stackshare](https://stackshare.io/trainline)
 [THEED](https://www.theed.technology) | Germany / Online | Software | | Ok (German speaking)
+[TotallyMoney](https://www.totallymoney.com) | United Kingdom, London | FinTech | [GitHub](https://github.com/totallymoney), [Stackshare](https://stackshare.io/totallymoney-com/totallymoney-com) | |
 [Trampoline](https://trampolineup.com) | Italy, Turin | Software/IoT | [GitHub](https://github.com/kiotlog)
 [Veepee](https://www.veepee.com) | France, Saint-Denis | E-commerce | [Twitter](https://twitter.com/FRchrdsn/status/1149414855876784129)
 [Wavecom](https://wavecom.io) | Moscow, Russia | Software | [Website](https://wavecom.io/) | Ok
