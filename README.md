@@ -73,7 +73,7 @@ Some of these companies support remote hires. Where that information is availabl
 [Safe Banking Systems (Part of Accuity)](https://accuity.com/product/firco-screening-insight-for-accounts/) | NYC, NY and Kennesaw, GA | RiskTech | [Github](https://github.com/BayardRock) | No
 [Serit IT Partner Tromsø](https://serit.no/kontor/tromso/) | Norway, Tromsø | IT, Software | [GitHub](https://github.com/serit) | Ok
 [SfSync](https://sfsync.online/) | Ukraine, Lviv/Odesa | Software (ISV) | [Facebook](https://www.facebook.com/sfsync/) | Ok (Europe only)
-[StarLizard](https://www.starlizard.com/) | UK, London | Betting consultancy | [Stack Overflow](https://stackoverflow.com/jobs/companies/starlizard)
+[Starlizard](https://www.starlizard.com/) | UK, London | Betting consultancy | [Stack Overflow](https://stackoverflow.com/jobs/companies/starlizard)
 [Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
 [Tactics](https://www.tactics.be) | Belgium, Kapellen | Software | [Website](https://www.tactics.be) | Ok (Europe only)
 [The Secret Circle Solutions](https://secretcircle.solutions/) | Ukraine, Kherson/Odesa | Software development services | [Website](https://secretcircle.solutions/), [Facebook](https://www.facebook.com/scrtcrcl/) | Ok (Europe only)
