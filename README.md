@@ -18,8 +18,9 @@ There are similar lists for companies that use the following functional language
 [Bazinga Technologies](https://mybazinga.com/) | Canada, Vancouver, BC | Software | [Twitter](https://twitter.com/getbazinga)
 [Binary Defense](https://www.binarydefense.com/) | USA, OH, Akron | Infosec/Endpoint Monitoring | [Twitter](https://twitter.com/binary_defense?lang=en) | Ok (US only)
 [BinaryGears](https://www.binarygears.de/) | Germany, Frankfurt | Software | [GitHub](https://github.com/ronaldschlenker) | Ok
-[Blue Trading Systems](https://www.bluetradingsystems.com/) | USA - Chapel Hill, NC / Chicago, IL | Financial | [Twitter](https://twitter.com/bts_software) | 
-| [Cazana](https://cazana.com/uk) | London, UK | Data Mining, Automotive | [Twitter](https://twitter.com/Cazana) | Ok |
+[Blue Trading Systems](https://www.bluetradingsystems.com/) | USA - Chapel Hill, NC / Chicago, IL | Financial | [Twitter](https://twitter.com/bts_software) | | 
+[Cardlytics](https://www.cardlytics.com/) | USA, GA, Atlanta | Marketing, FinTech | [Website](https://www.cardlytics.com/) | Ok |
+[Cazana](https://cazana.com/uk) | London, UK | Data Mining, Automotive | [Twitter](https://twitter.com/Cazana) | Ok |
 [CN Group CZ](https://www.cngroup.dk/) | Czech Republic, Prague | Software | [Twitter](https://twitter.com/cngroup_cz), [Website](https://www.cngroup.dk) | 
 [Compositional IT](https://www.compositional-it.com) | United Kingdom, London | Software | [GitHub](https://github.com/compositionalit)
 [Copenhagen Software](https://copenhagensoftware.com) | Denmark, Copenhagen / Lithuania, Vilnius | Software | [Twitter](https://twitter.com/cphsoft/status/1114106216509267968) | Ok
