@@ -29,6 +29,7 @@ There are similar lists for companies that use the following functional language
 [D-Edge](https://www.d-edge.com/) | Paris, France | Hospitality | [Twitter](https://twitter.com/D_EDGE_Hosp)
 [Danpower](https://www.danpower.de/) | DE, Potsdam | EnergySupply | | Ok
 [Datto](https://www.datto.com/) | UK, Amersham | Software | [Twitter](https://twitter.com/datto) | Ok
+[Dell](https://www.dell.com/) | USA, Worldwide, Remote | Technology Solutions | [Jobs](https://jobs.dell.com/) | Ok
 [Demetrix](https://www.demetrixbio.com) | Emeryville, CA, USA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
 [DEX Imaging](https://www.deximaging.com) | Tampa, FL, USA | Office Equipment | [Twitter](https://twitter.com/deximaging) | Ok
 [Edelweiss Connect GmbH](https://edelweissconnect.com) | Basel, Switzerland | Toxicology | [Github](https://github.com/douglasconnect) | Ok
