@@ -29,6 +29,7 @@ There are similar lists for companies that use the following functional language
 [D-Edge](https://www.d-edge.com/) | Paris, France | Hospitality | [Twitter](https://twitter.com/D_EDGE_Hosp)
 [Danpower](https://www.danpower.de/) | DE, Potsdam | EnergySupply | | Ok
 [Datto](https://www.datto.com/) | UK, Amersham | Software | [Twitter](https://twitter.com/datto) | Ok
+[Dell](https://www.dell.com/) | USA, Worldwide, Remote | Technology Solutions | [Jobs](https://jobs.dell.com/) | Ok
 [Demetrix](https://www.demetrixbio.com) | Emeryville, CA, USA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
 [DEX Imaging](https://www.deximaging.com) | Tampa, FL, USA | Office Equipment | [Twitter](https://twitter.com/deximaging) | Ok
 [Edelweiss Connect GmbH](https://edelweissconnect.com) | Basel, Switzerland | Toxicology | [Github](https://github.com/douglasconnect) | Ok
@@ -53,6 +54,7 @@ There are similar lists for companies that use the following functional language
 [Microsoft](https://www.microsoft.com) | Worldwide | Software | [GitHub](https://github.com/dotnet/fsharp) | Ok
 [Millenium Management](https://www.mlp.com/home/) | USA, NY, New York | Finance | [Job Posting](https://mlp.wd5.myworkdayjobs.com/en-US/mlpcareers/job/New-York-NY---666-5th-Ave/C--Software-Engineer_REQ-8518-1)
 [msu solutions GmbH](https://msu-solutions.de/) | Germany | Software | |
+Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/7sharp9_exhumed) | OK
 [Mulberry Labs, B.V.](https://www.mulberrylabs.com/) | Netherlands, The Hauge | Consulting | | 
 [NRK](https://www.nrk.no/) | Norway, Oslo | Media | [GitHub](https://github.com/nrkno) | | 
 [Olo](https://www.olo.com) | USA, NY, New York | Restauration | [Github](https://github.com/ololabs?language=f%23)| Ok
@@ -79,3 +81,4 @@ There are similar lists for companies that use the following functional language
 [Wavecom](https://wavecom.io) | Moscow, Russia | Software | [Website](https://wavecom.io/) | Ok
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
 (still-unnamed startup in stealth mode) | around Hong Kong: Guangzhou,Macau,Shenzhen,Taiwan,etc | CryptoCurrency | [HackerNews](https://news.ycombinator.com/item?id=20326739) | Ok
+[Zühlke Engineering](https://www.zuehlke.com/) | Germany | Software | | 
