@@ -67,6 +67,7 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Quicken Loans](https://www.quickenloans.com) | USA, MI, Detroit | FinTech | | OK
 [Robotmaster](https://www.robotmaster.com/en/) | Canada, Montreal, Quebec | Robotics | ?
 [Safe Banking Systems (Part of Accuity)](https://accuity.com/product/firco-screening-insight-for-accounts/) | NYC, NY and Kennesaw, GA | RiskTech | [Github](https://github.com/BayardRock) | No
+[SBTech](https://www.sbtech.com/) | Kyiv, Ukraine | Betting | |
 [Serit IT Partner Tromsø](https://serit.no/kontor/tromso/) | Norway, Tromsø | IT, Software | [GitHub](https://github.com/serit) | Ok
 [SfSync](https://sfsync.online/) | Ukraine, Lviv/Odesa | Software (ISV) | [Facebook](https://www.facebook.com/sfsync/) | Ok (Europe only)
 [Starlizard](https://www.starlizard.com/) | UK, London | Betting consultancy | [Stack Overflow](https://stackoverflow.com/jobs/companies/starlizard)
