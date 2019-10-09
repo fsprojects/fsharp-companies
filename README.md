@@ -7,6 +7,8 @@ There are similar lists for companies that use the following functional language
 
 1. [Haskell](https://github.com/erkmos/haskell-companies)
 2. [PureScript](https://github.com/ajnsit/purescript-companies)
+3. [Elm](https://github.com/jah2488/elm-companies)
+4. [Elixir](https://github.com/beam-community/elixir-companies)
 
 ### Companies
 
