@@ -46,6 +46,7 @@ There are similar lists for companies that use the following functional language
 [Huddle](https://www.huddle.com/) | UK, London | Software | [Github](https://github.com/Huddle?utf8=✓&q=&type=&language=f%23)
 [Hymans Robertson LLP](https://www.hymans.co.uk/) | UK | Finance | [Slideshare](https://www.slideshare.net/KeithHarrison4/why-hymans-use-f)
 [IDTechEx](https://www.idtechex.com) | UK, Cambridge | Market Research |
+[Imperfect Foods](https://www.imperfectfoods.com) | USA, CA, San Francisco | Food Services | [Hacker News](https://news.ycombinator.com/item?id=21128684) | Ok
 [IntelliFactory](http://intellifactory.com) | Hungary, Budapest | Software | [Github](https://github.com/intellifactory?utf8=✓&q=&type=&language=f%23)
 [iVendi](https://ivendi.com) | UK, Manchester | Software | [Twitter](https://twitter.com/iVendiLtd) | OK (part time)
 [Jet](https://jet.com) | USA, NY, New Jerseys, Bangalore (India) | E-commerce | [Github](https://github.com/jet?utf8=✓&q=&type=&language=f%23)
