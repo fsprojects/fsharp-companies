@@ -71,7 +71,7 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Prodrive Technologies](https://prodrive-technologies.com/) | Netherlands, Son | Manufacturing | [Job Posting](https://prodrive-technologies.com/careers/vacancies/back-end-software-developer/) | No
 [Property With Potential](https://propertytorenovate.co.uk/) | UK,London | Software | [Stackshare](https://stackshare.io/property-with-potential/property-with-potential)
 [Quicken Loans](https://www.quickenloans.com) | USA, MI, Detroit | FinTech | | OK
-[Rhein-Spree Software Engineering GmbH](https://www.rhein-spree.com) | Germary, Berlin | Software | [GitHub](https://github.com/rheinspree) | Ok
+[Rhein-Spree Software Engineering GmbH](https://www.rhein-spree.com) | Germany, Berlin | Software | [GitHub](https://github.com/rheinspree) | Ok
 [Robotmaster](https://www.robotmaster.com/en/) | Canada, Montreal, Quebec | Robotics | ?
 [Safe Banking Systems (Part of Accuity)](https://accuity.com/product/firco-screening-insight-for-accounts/) | NYC, NY and Kennesaw, GA | RiskTech | [Github](https://github.com/BayardRock) | No
 [SBTech](https://www.sbtech.com/) | Kyiv, Ukraine | Betting | |
