@@ -69,6 +69,7 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Perpetuum](https://www.perpetuum.com) | UK, Southampton | Railway Condition Monitoring | |
 [Pluralsight](https://app.pluralsight.com) | Utah, USA | Software | |
 [Prodrive Technologies](https://prodrive-technologies.com/) | Netherlands, Son | Manufacturing | [Job Posting](https://prodrive-technologies.com/careers/vacancies/back-end-software-developer/) | No
+[Proffsmagasinet](https://www.proffsmagasinet.se/) | Sweden, Stockholm | E-commerce | | OK
 [Property With Potential](https://propertytorenovate.co.uk/) | UK,London | Software | [Stackshare](https://stackshare.io/property-with-potential/property-with-potential)
 [Quicken Loans](https://www.quickenloans.com) | USA, MI, Detroit | FinTech | | OK
 [Rhein-Spree Software Engineering GmbH](https://www.rhein-spree.com) | Germany, Berlin | Software | [GitHub](https://github.com/rheinspree) | Ok
