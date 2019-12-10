@@ -57,6 +57,7 @@ There are similar lists for companies that use the following functional language
 [Locai Solutions](https://locaisolutions.com) | Remote, U.S. | eGrocery | | Ok
 [Lokad](https://www.lokad.com) | France, Paris | Software | [Careers](https://www.lokad.com/software-engineering) |
 [Masse](https://shopmasse.com) | USA, NY, New York | eCommerce | [Twitter](https://twitter.com/shop_masse), [Instagram](https://instagram.com/shop_masse)
+[Microdesk](https://www.microdesk.com/) | USA, UK, Remote | BIM | [Careers](https://www.microdesk.com/career-opportunities/), [Twitter](https://twitter.com/MicrodeskInc) | Ok
 [Microsoft](https://www.microsoft.com) | Worldwide | Software | [GitHub](https://github.com/dotnet/fsharp) | Ok
 [Millenium Management](https://www.mlp.com/home/) | USA, NY, New York | Finance | [Job Posting](https://mlp.wd5.myworkdayjobs.com/en-US/mlpcareers/job/New-York-NY---666-5th-Ave/C--Software-Engineer_REQ-8518-1)
 [msu solutions GmbH](https://msu-solutions.de/) | Germany | Software | |
