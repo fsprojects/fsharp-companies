@@ -89,6 +89,7 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [TotallyMoney](https://www.totallymoney.com) | United Kingdom, London | FinTech | [GitHub](https://github.com/totallymoney), [Stackshare](https://stackshare.io/totallymoney-com/totallymoney-com) | |
 [Trampoline](https://trampolineup.com) | Italy, Turin | Software/IoT | [GitHub](https://github.com/kiotlog)
 [Veepee](https://www.veepee.com) | France, Saint-Denis | E-commerce | [Twitter](https://twitter.com/FRchrdsn/status/1149414855876784129)
+[Walmart Labs](https://github.com/Szer/fsharp-companies.git) | Mountain View, CA | Retail | [Github](https://github.com/walmartlabs) [Twitter](https://twitter.com/WalmartLabs) [LinkedIn](https://www.linkedin.com/company/walmart-labs)
 [Wavecom](https://wavecom.io) | Moscow, Russia | Software | [Website](https://wavecom.io/) | Ok
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
 (still-unnamed startup in stealth mode) | around Hong Kong: Guangzhou,Macau,Shenzhen,Taiwan,etc | CryptoCurrency | [HackerNews](https://news.ycombinator.com/item?id=20326739) | Ok
