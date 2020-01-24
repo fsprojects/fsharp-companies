@@ -45,7 +45,7 @@ There are similar lists for companies that use the following functional language
 [Genetec](https://www.genetec.com)| Canada, Montreal, Quebec | Security| [Twitter](https://twitter.com/genetec/status/984485239908126721)
 [GreenPowerMonitor](https://www.greenpowermonitor.com) | Spain, Barcelona | Renewable Energy | [Github](https://github.com/GreenPowerMonitor) | Ok
 [G-Research](https://www.gresearch.co.uk/)| UK, London | Finance | [Twitter](https://twitter.com/GRESEARCHjobs)
-[HGV](https://www.hgv.it) | IT, South Tyrol | Hoteliers and Restaurateurs |
+[HGV](https://www.hgv.it) | IT, South Tyrol | Hoteliers and Restaurateurs | | No
 [HighGear](https://highgear.com) | USA, MD, Frederick | Software | [Blog post](https://www.highgear.com/blog/why-we-chose-to-write-important-code-in-f-sharp/) | No
 [Huddle](https://www.huddle.com/) | UK, London | Software | [Github](https://github.com/Huddle?utf8=✓&q=&type=&language=f%23)
 [Hymans Robertson LLP](https://www.hymans.co.uk/) | UK | Finance | [Slideshare](https://www.slideshare.net/KeithHarrison4/why-hymans-use-f)
