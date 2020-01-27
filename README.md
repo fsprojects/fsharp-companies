@@ -20,6 +20,7 @@ There are similar lists for companies that use the following functional language
 [Bazinga Technologies](https://mybazinga.com/) | Canada, Vancouver, BC | Software | [Twitter](https://twitter.com/getbazinga)
 [Binary Defense](https://www.binarydefense.com/) | USA, OH, Akron | Infosec/Endpoint Monitoring | [Twitter](https://twitter.com/binary_defense?lang=en) | Ok (US only)
 [BinaryGears](https://www.binarygears.de/) | Germany, Frankfurt | Software | [GitHub](https://github.com/ronaldschlenker) | Ok
+[Blocher Consulting](http://blocherconsulting.com/) | USA - Champaign, IL / Canada - Hamilton, ON | Consulting | [LinkedIn](https://www.linkedin.com/company/blocherconsulting/) | Ok |
 [Blue Trading Systems](https://www.bluetradingsystems.com/) | USA - Chapel Hill, NC / Chicago, IL | Financial | [Twitter](https://twitter.com/bts_software) | | 
 [Cardlytics](https://www.cardlytics.com/) | USA, GA, Atlanta | Marketing, FinTech | [Website](https://www.cardlytics.com/) | Ok |
 [Cazana](https://cazana.com/uk) | London, UK | Data Mining, Automotive | [Twitter](https://twitter.com/Cazana) | Ok |
