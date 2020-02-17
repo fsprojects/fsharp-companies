@@ -25,6 +25,7 @@ There are similar lists for companies that use the following functional language
 [Cardlytics](https://www.cardlytics.com/) | USA, GA, Atlanta | Marketing, FinTech | [Website](https://www.cardlytics.com/) | Ok |
 [Cazana](https://cazana.com/uk) | London, UK | Data Mining, Automotive | [Twitter](https://twitter.com/Cazana) | Ok |
 [CN Group CZ](https://www.cngroup.dk/) | Czech Republic, Prague | Software | [Twitter](https://twitter.com/cngroup_cz), [Website](https://www.cngroup.dk) | 
+[ConnectDevelop](https://connectdevelop.com/) | Brisbane, Australia | Software, Energy | [Website](https://connectdevelop.com/) | |
 [Compositional IT](https://www.compositional-it.com) | United Kingdom, London | Software | [GitHub](https://github.com/compositionalit)
 [Copenhagen Software](https://copenhagensoftware.com) | Denmark, Copenhagen / Lithuania, Vilnius | Software | [Twitter](https://twitter.com/cphsoft/status/1114106216509267968) | Ok
 [C Tech Development Corp](https://www.ctech.com) | USA - Portland, ME / Sarasota, FL | Software | [Website](https://ctech.com) | Ok
