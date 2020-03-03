@@ -49,6 +49,7 @@ There are similar lists for companies that use the following functional language
 [G-Research](https://www.gresearch.co.uk/)| UK, London | Finance | [Twitter](https://twitter.com/GRESEARCHjobs)
 [HGV](https://www.hgv.it) | IT, South Tyrol | Hoteliers and Restaurateurs | | No
 [HighGear](https://highgear.com) | USA, MD, Frederick | Software | [Blog post](https://www.highgear.com/blog/why-we-chose-to-write-important-code-in-f-sharp/) | No
+[Housing Insight](https://www.housing-insight.co.uk/) | UK | Property & Housing technology | | OK (required)
 [Huddle](https://www.huddle.com/) | UK, London | Software | [Github](https://github.com/Huddle?utf8=✓&q=&type=&language=f%23)
 [Hymans Robertson LLP](https://www.hymans.co.uk/) | UK | Finance | [Slideshare](https://www.slideshare.net/KeithHarrison4/why-hymans-use-f)
 [IDTechEx](https://www.idtechex.com) | UK, Cambridge | Market Research |
