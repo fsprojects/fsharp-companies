@@ -77,6 +77,7 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Own](https://www.weown.com) | Germany, Munich | FinTech | [GitHub](https://github.com/OwnMarket?language=f%23)|
 [Peano System Inc.](https://peano-system.jp) | Remote, based at Aichi, Japan | Software | [GitHub](https://github.com/peano-system) [JobPosting](https://peano-system.jp/jobs) [PeanoCurvesApp](https://peano-curves.psapp.jp) | Ok
 [Perpetuum](https://www.perpetuum.com) | UK, Southampton | Railway Condition Monitoring | |
+[PiLab](https://pilab.co/) | Korea, Seul | Blockchain | No |
 [Pluralsight](https://app.pluralsight.com) | Utah, USA | Software | |
 [Prodrive Technologies](https://prodrive-technologies.com/) | Netherlands, Son | Manufacturing | [Job Posting](https://prodrive-technologies.com/careers/vacancies/back-end-software-developer/) | No
 [Proffsmagasinet](https://www.proffsmagasinet.se/) | Sweden, Stockholm | E-commerce | | OK
