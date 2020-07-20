@@ -63,6 +63,7 @@ There are similar lists for companies that use the following functional language
 [LetsGetChecked](https://www.letsgetchecked.com) | Ireland, Dublin | Healthcare | [StackShare](https://stackshare.io/lets-get-checked/lets-get-checked), [Job Posting](https://letsgetchecked.bamboohr.com/jobs/view.php?id=67)
 [Liberty Financial](https://www.liberty.com.au) | Australia, Melbourne | Finance | [Twitter](https://twitter.com/danielchmbrs/status/1198813082169987072) | |
 [Locai Solutions](https://locaisolutions.com) | Remote, U.S. | eGrocery | | Ok
+[Logic Studio](https://www.logicstudio.net) | Quito, Ecuador | Web UI Test Automation, RPA with Canopy. Bot Framework chatbots. | | Ok
 [Lokad](https://www.lokad.com) | France, Paris | Software | [Careers](https://www.lokad.com/software-engineering) |
 [Masse](https://shopmasse.com) | USA, NY, New York | eCommerce | [Twitter](https://twitter.com/shop_masse), [Instagram](https://instagram.com/shop_masse)
 [Microdesk](https://www.microdesk.com/) | USA, UK, Remote | BIM | [Careers](https://www.microdesk.com/career-opportunities/), [Twitter](https://twitter.com/MicrodeskInc) | Ok
