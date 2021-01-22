@@ -72,7 +72,7 @@ There are similar lists for companies that use the following functional language
 [Millenium Management](https://www.mlp.com/home/) | USA, NY, New York | Finance | [Job Posting](https://mlp.wd5.myworkdayjobs.com/en-US/mlpcareers/job/New-York-NY---666-5th-Ave/C--Software-Engineer_REQ-8518-1)
 [msu solutions GmbH](https://msu-solutions.de/) | Germany | Software | |
 Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/7sharp9_exhumed) | OK
-[Mulberry Labs, B.V.](https://www.mulberrylabs.com/) | Netherlands, The Hauge | Consulting | | 
+[Mulberry Labs, B.V.](https://www.mulberrylabs.com/) | Netherlands, The Hague | Consulting | | 
 [NCR Corporation](https://www.ncr.com/) | Czech Republic, Prague | Software | [Twitter](https://twitter.com/NCRCorporation) [Instagram](https://www.instagram.com/ncrcorporation/) [Facebook](https://www.facebook.com/ncrcorp/) [JobPosting](https://ncr.wd1.myworkdayjobs.com/ext_non_us) [LinkedIn](https://www.linkedin.com/company/ncr-corporation/) | |
 [NRK](https://www.nrk.no/) | Norway, Oslo | Media | [GitHub](https://github.com/nrkno) | | 
 [Olo](https://www.olo.com) | USA, NY, New York | Restauration | [Github](https://github.com/ololabs?language=f%23)| Ok
