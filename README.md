@@ -24,6 +24,7 @@ There are similar lists for companies that use the following functional language
 [BinaryGears](https://www.binarygears.de/) | Germany, Frankfurt | Software | [GitHub](https://github.com/ronaldschlenker) | Ok
 [Blocher Consulting](http://blocherconsulting.com/) | USA - Champaign, IL / Canada - Hamilton, ON | Consulting | [LinkedIn](https://www.linkedin.com/company/blocherconsulting/) | Ok |
 [Blue Trading Systems](https://www.bluetradingsystems.com/) | USA - Chapel Hill, NC / Chicago, IL | Financial | [Twitter](https://twitter.com/bts_software) | | 
+[Bouygues Travaux Publics](http://www.bouygues-tp.com/) | Guyancourt, France | Construction Engineering | [Website](http://www.bouygues-tp.com/), [Twitter](https://twitter.com/bouygues_c), [LinkedIn](https://www.linkedin.com/company/bouygues-travaux-publics/)| Ok (part time, France only)
 [Cardlytics](https://www.cardlytics.com/) | USA, GA, Atlanta | Marketing, FinTech | [Website](https://www.cardlytics.com/) | Ok |
 [Cazana](https://cazana.com/uk) | London, UK | Data Mining, Automotive | [Twitter](https://twitter.com/Cazana) | Ok |
 [CN Group CZ](https://www.cngroup.dk/) | Czech Republic, Prague | Software | [Twitter](https://twitter.com/cngroup_cz), [Website](https://www.cngroup.dk) | 
