@@ -36,6 +36,7 @@ There are similar lists for companies that use the following functional language
 [Cvent](https://www.cvent.com) | USA, VA, McLean | Software | [Github](https://github.com/cvent?utf8=✓&q=&type=&language=f%23)
 [D-Edge](https://www.d-edge.com/) | Paris, France | Hospitality | [Twitter](https://twitter.com/D_EDGE_Hosp)
 [Danpower](https://www.danpower.de/) | DE, Potsdam | EnergySupply | | Ok
+[Darklang](https://www.darklang.com/) | SF, CA, USA | Programming/cloud tools | [Website](https://darklang.com), [GitHub](https://github.com/darklang/dark), [Twitter](https://twitter.com/darklang) | Ok (required)
 [Datto](https://www.datto.com/) | UK, Amersham | Software | [Twitter](https://twitter.com/datto) | Ok
 [Dell](https://www.dell.com/) | USA, Worldwide, Remote | Technology Solutions | [Jobs](https://jobs.dell.com/) | Ok
 [Demetrix](https://www.demetrixbio.com) | Emeryville, CA, USA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
