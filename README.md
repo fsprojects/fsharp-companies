@@ -62,6 +62,7 @@ There are similar lists for companies that use the following functional language
 [IntelliFactory](http://intellifactory.com) | Hungary, Budapest | Software | [Github](https://github.com/intellifactory?utf8=✓&q=&type=&language=f%23)
 [iVendi](https://ivendi.com) | UK, Manchester | Software | [Twitter](https://twitter.com/iVendiLtd) | OK (part time)
 [Jet (Walmart Labs)](https://jet.com) | New Jersey (USA), Dublin (Ireland), Bangalore (India) | E-commerce | [Github](https://github.com/jet?utf8=✓&q=&type=&language=f%23)
+[KPMG (Germany)](https://home.kpmg/de/de/home.html) | Germany | Consulting | | No
 [Lambda Factory](https://lambdafactory.io) | Remote | Software & Consulting | [GitHub](https://github.com/LambdaFactory), [Twitter](https://twitter.com/Lambda_Factory) | Ok
 [Lets Roam](https://www.letsroam.com) | Denver, Colorado | Tourism | | Ok
 [LetsGetChecked](https://www.letsgetchecked.com) | Ireland, Dublin | Healthcare | [StackShare](https://stackshare.io/lets-get-checked/lets-get-checked), [Job Posting](https://letsgetchecked.bamboohr.com/jobs/view.php?id=67)
