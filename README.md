@@ -98,6 +98,7 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Serit IT Partner Tromsø](https://serit.no/kontor/tromso/) | Norway, Tromsø | IT, Software | [GitHub](https://github.com/serit) | Ok
 [SfSync](https://sfsync.online/) | Ukraine, Lviv/Odesa | Software (ISV) | [Facebook](https://www.facebook.com/sfsync/) | Ok (Europe only)
 [Starlizard](https://www.starlizard.com/) | UK, London | Betting consultancy | [Stack Overflow](https://stackoverflow.com/jobs/companies/starlizard)
+[StatMuse](https://statmuse.com/) | USA | NLP Software | | OK (required)
 [Svea Group/ Svea Ekonomi](https://svea.com/)| Sweden, Stockholm, Solna | Financial services, banking, fintech | [Website](http://career.svea.com/)|No
 [Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
 [Tactics](https://www.tactics.be) | Belgium, Kapellen | Software | [Website](https://www.tactics.be) | Ok (Europe only)
