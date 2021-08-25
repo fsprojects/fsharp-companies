@@ -62,6 +62,7 @@ There are similar lists for companies that use the following functional language
 [IntelliFactory](http://intellifactory.com) | Hungary, Budapest | Software | [Github](https://github.com/intellifactory?utf8=✓&q=&type=&language=f%23)
 [iVendi](https://ivendi.com) | UK, Manchester | Software | [Twitter](https://twitter.com/iVendiLtd) | OK (part time)
 [Jet (Walmart Labs)](https://jet.com) | New Jersey (USA), Dublin (Ireland), Bangalore (India) | E-commerce | [Github](https://github.com/jet?utf8=✓&q=&type=&language=f%23)
+[Kroll Bond Rating Agency](https://www.kbra.com/) | USA, NY, New York | Finance | | Ok
 [KPMG (Germany)](https://home.kpmg/de/de/home.html) | Germany | Consulting | | No
 [Lambda Factory](https://lambdafactory.io) | Remote | Software & Consulting | [GitHub](https://github.com/LambdaFactory), [Twitter](https://twitter.com/Lambda_Factory) | Ok
 [Lets Roam](https://www.letsroam.com) | Denver, Colorado | Tourism | | Ok
@@ -97,6 +98,7 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [SBTech](https://www.sbtech.com/) | Kyiv, Ukraine | Betting | |
 [Serit IT Partner Tromsø](https://serit.no/kontor/tromso/) | Norway, Tromsø | IT, Software | [GitHub](https://github.com/serit) | Ok
 [SfSync](https://sfsync.online/) | Ukraine, Lviv/Odesa | Software (ISV) | [Facebook](https://www.facebook.com/sfsync/) | Ok (Europe only)
+[SmartStream Technologies](https://www.smartstream-stp.com/) | USA, NY, New York | Finance | | Ok
 [Starlizard](https://www.starlizard.com/) | UK, London | Betting consultancy | [Stack Overflow](https://stackoverflow.com/jobs/companies/starlizard)
 [Svea Group/ Svea Ekonomi](https://svea.com/)| Sweden, Stockholm, Solna | Financial services, banking, fintech | [Website](http://career.svea.com/)|No
 [Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
