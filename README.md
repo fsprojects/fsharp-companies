@@ -31,6 +31,7 @@ There are similar lists for companies that use the following functional language
 [Connect Develop](https://connectdevelop.com/) | Australia, Brisbane | Software, Energy | [Website](https://connectdevelop.com/) | |
 [Compositional IT](https://www.compositional-it.com) | United Kingdom, London | Software | [GitHub](https://github.com/compositionalit)
 [Copenhagen Software](https://copenhagensoftware.com) | Denmark, Copenhagen / Lithuania, Vilnius | Software | [Twitter](https://twitter.com/cphsoft/status/1114106216509267968) | Ok
+[Criipto](https://www.criipto.com) | Denmark, Holte | Software | [GitHub](https://github.com/criipto), [LinkedIn](https:/www.linkedin.com/company/criipto), [Twitter](https://twitter.com/criipto) | Ok
 [C Tech Development Corp](https://www.ctech.com) | USA - Portland, ME / Sarasota, FL | Software | [Website](https://ctech.com) | Ok
 [Cubos Tecnologia](https://cubos.io/) | Brazil - Salvador, BA / São Paulo, SP | Software | [Linkedin](https://www.linkedin.com/company/cubostecnologia/), [Jobs](http://jobs.cubos.io/)| Ok
 [Cvent](https://www.cvent.com) | USA, VA, McLean | Software | [Github](https://github.com/cvent?utf8=✓&q=&type=&language=f%23)
