@@ -49,6 +49,7 @@ There are similar lists for companies that use the following functional language
 [Fronius](https://fronius.com/) | Austria, Wels | Electrical Equipment | [Website](https://fronius.com), [Facebook](https://www.facebook.com/fronius.int/) | 
 [Fund Ourselves](https://www.fundourselves.com) | UK, London | FinTech, P2P | [Twitter](https://twitter.com/fundourselves) | 
 [FundApps](https://www.fundapps.co) | UK, London | Software | [Stackshare](https://stackshare.io/fundapps#technology)
+[Futurelab](https://futurelabspa.it) | Italy, Bassano del Grappa | Software | | 
 [Genetec](https://www.genetec.com)| Canada, Montreal, Quebec | Security| [Twitter](https://twitter.com/genetec/status/984485239908126721)
 [GreenPowerMonitor](https://www.greenpowermonitor.com) | Spain, Barcelona | Renewable Energy | [Github](https://github.com/GreenPowerMonitor) | Ok
 [G-Research](https://www.gresearch.co.uk/)| UK, London | Finance | [Twitter](https://twitter.com/GRESEARCHjobs)
@@ -113,5 +114,4 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Wavecom](https://wavecom.io) | Moscow, Russia | Software | [Website](https://wavecom.io/) | Ok
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
 (still-unnamed startup in stealth mode) | around Hong Kong: Guangzhou,Macau,Shenzhen,Taiwan,etc | CryptoCurrency | [HackerNews](https://news.ycombinator.com/item?id=20326739) | Ok
-[ZEUSLAB spa](https://www.zeuslab.it) | Italy, Bassano del Grappa | Software | | 
 [Zühlke Engineering](https://www.zuehlke.com/) | Germany | Software | | 
