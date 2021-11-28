@@ -101,6 +101,7 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [SfSync](https://sfsync.online/) | Ukraine, Lviv/Odesa | Software (ISV) | [Facebook](https://www.facebook.com/sfsync/) | Ok (Europe only)
 [Softwarepark](https://www.softwarepark.cc/) | Vienna, Austria | Software | [Blog post](https://www.softwarepark.cc/blog/2020/8/9/introduction-to-functional-programming-in-f-table-of-contents) | Ok (Europe timezones only)
 [Starlizard](https://www.starlizard.com/) | UK, London | Betting consultancy | [Stack Overflow](https://stackoverflow.com/jobs/companies/starlizard)
+[StatMuse](https://statmuse.com/) | USA | NLP Software | | OK (required)
 [Statical](https://www.stati-cal.com/) | Denmark, Sønderborg | Software | [GitHub](https://github.com/Statical/) | 
 [Svea Group/ Svea Ekonomi](https://svea.com/)| Sweden, Stockholm, Solna | Financial services, banking, fintech | [Website](http://career.svea.com/)|No
 [Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
