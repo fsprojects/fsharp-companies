@@ -61,6 +61,7 @@ There are similar lists for companies that use the following functional language
 [Hymans Robertson LLP](https://www.hymans.co.uk/) | UK | Finance | [Slideshare](https://www.slideshare.net/KeithHarrison4/why-hymans-use-f)
 [IDTechEx](https://www.idtechex.com) | UK, Cambridge | Market Research |
 [Imperfect Foods](https://www.imperfectfoods.com) | USA, CA, San Francisco | Food Services | [Hacker News](https://news.ycombinator.com/item?id=21128684) | Ok
+[InCommodities](https://incommodities.com/) | Denmark, Aarhus | FinTech/Trading | [Website](https://incommodities.com/#careers)
 [IntelliFactory](http://intellifactory.com) | Hungary, Budapest | Software | [Github](https://github.com/intellifactory?utf8=✓&q=&type=&language=f%23)
 [iVendi](https://ivendi.com) | UK, Manchester | Software | [Twitter](https://twitter.com/iVendiLtd) | OK (part time)
 [Jet (Walmart Labs)](https://jet.com) | New Jersey (USA), Dublin (Ireland), Bangalore (India) | E-commerce | [Github](https://github.com/jet?utf8=✓&q=&type=&language=f%23)
