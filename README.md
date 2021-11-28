@@ -46,6 +46,7 @@ There are similar lists for companies that use the following functional language
 [Ekon Benefits](https://ekonbenefits.com) | USA, MO, Saint Louis | Financial | [Github](https://github.com/ekonbenefits?utf8=✓&q=&type=public&language=f%23)
 [Exercism](https://exercism.io/) | Online | Software | [Github](https://github.com/exercism?utf8=%E2%9C%93&q=&type=&language=f%23)
 [FinAi](https://www.finai.com/) | Warsaw, Poland | FinTech, Software | [Website](https://www.finai.com/), [Twitter](https://twitter.com/orientman) |
+[FlareHR](https://www.flarehr.com/) | Sydney, Australia | FinTech, Software | [Website](https://www.flarehr.com/), [LinkedIn](https://www.linkedin.com/company/flareaus/) | No
 [Fronius](https://fronius.com/) | Austria, Wels | Electrical Equipment | [Website](https://fronius.com), [Facebook](https://www.facebook.com/fronius.int/) | 
 [Fund Ourselves](https://www.fundourselves.com) | UK, London | FinTech, P2P | [Twitter](https://twitter.com/fundourselves) | 
 [FundApps](https://www.fundapps.co) | UK, London | Software | [Stackshare](https://stackshare.io/fundapps#technology)
