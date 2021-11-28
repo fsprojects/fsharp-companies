@@ -34,7 +34,7 @@ There are similar lists for companies that use the following functional language
 [C Tech Development Corp](https://www.ctech.com) | USA - Portland, ME / Sarasota, FL | Software | [Website](https://ctech.com) | Ok
 [Cubos Tecnologia](https://cubos.io/) | Brazil - Salvador, BA / São Paulo, SP | Software | [Linkedin](https://www.linkedin.com/company/cubostecnologia/), [Jobs](http://jobs.cubos.io/)| Ok
 [Cvent](https://www.cvent.com) | USA, VA, McLean | Software | [Github](https://github.com/cvent?utf8=✓&q=&type=&language=f%23)
-[D-Edge](https://www.d-edge.com/) | Paris, France | Hospitality | [Twitter](https://twitter.com/D_EDGE_Hosp)
+[D-EDGE](https://www.d-edge.com/) | Paris, France | Hospitality | [Github](https://github.com/d-edge?utf8=✓&q=&type=&language=f%23), [LinkedIn](https://www.linkedin.com/company/d-edge-hospitality-solutions), [Twitter](https://twitter.com/D_EDGE_Hosp) | Ok
 [Danpower](https://www.danpower.de/) | DE, Potsdam | EnergySupply | | Ok
 [Darklang](https://www.darklang.com/) | SF, CA, USA | Programming/cloud tools | [Website](https://darklang.com), [GitHub](https://github.com/darklang/dark), [Twitter](https://twitter.com/darklang) | Ok (required)
 [Datto](https://www.datto.com/) | UK, Amersham | Software | [Twitter](https://twitter.com/datto) | Ok
