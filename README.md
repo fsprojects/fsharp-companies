@@ -31,10 +31,12 @@ There are similar lists for companies that use the following functional language
 [Connect Develop](https://connectdevelop.com/) | Australia, Brisbane | Software, Energy | [Website](https://connectdevelop.com/) | |
 [Compositional IT](https://www.compositional-it.com) | United Kingdom, London | Software | [GitHub](https://github.com/compositionalit)
 [Copenhagen Software](https://copenhagensoftware.com) | Denmark, Copenhagen / Lithuania, Vilnius | Software | [Twitter](https://twitter.com/cphsoft/status/1114106216509267968) | Ok
+[Criipto](https://www.criipto.com) | Denmark, Holte | Software | [GitHub](https://github.com/criipto), [LinkedIn](https:/www.linkedin.com/company/criipto), [Twitter](https://twitter.com/criipto) | Ok
 [C Tech Development Corp](https://www.ctech.com) | USA - Portland, ME / Sarasota, FL | Software | [Website](https://ctech.com) | Ok
+[Credit Suisse](https://www.credit-suisse.com) | PL - Wroclaw, Warsaw / Switzerland - Zürich / UK - London / USA - NY | Financial |  | Ok (part time)
 [Cubos Tecnologia](https://cubos.io/) | Brazil - Salvador, BA / São Paulo, SP | Software | [Linkedin](https://www.linkedin.com/company/cubostecnologia/), [Jobs](http://jobs.cubos.io/)| Ok
 [Cvent](https://www.cvent.com) | USA, VA, McLean | Software | [Github](https://github.com/cvent?utf8=✓&q=&type=&language=f%23)
-[D-Edge](https://www.d-edge.com/) | Paris, France | Hospitality | [Twitter](https://twitter.com/D_EDGE_Hosp)
+[D-EDGE](https://www.d-edge.com/) | Paris, France | Hospitality | [Github](https://github.com/d-edge?utf8=✓&q=&type=&language=f%23), [LinkedIn](https://www.linkedin.com/company/d-edge-hospitality-solutions), [Twitter](https://twitter.com/D_EDGE_Hosp) | Ok
 [Danpower](https://www.danpower.de/) | DE, Potsdam | EnergySupply | | Ok
 [Darklang](https://www.darklang.com/) | SF, CA, USA | Programming/cloud tools | [Website](https://darklang.com), [GitHub](https://github.com/darklang/dark), [Twitter](https://twitter.com/darklang) | Ok (required)
 [Datto](https://www.datto.com/) | UK, Amersham | Software | [Twitter](https://twitter.com/datto) | Ok
@@ -46,9 +48,11 @@ There are similar lists for companies that use the following functional language
 [Ekon Benefits](https://ekonbenefits.com) | USA, MO, Saint Louis | Financial | [Github](https://github.com/ekonbenefits?utf8=✓&q=&type=public&language=f%23)
 [Exercism](https://exercism.io/) | Online | Software | [Github](https://github.com/exercism?utf8=%E2%9C%93&q=&type=&language=f%23)
 [FinAi](https://www.finai.com/) | Warsaw, Poland | FinTech, Software | [Website](https://www.finai.com/), [Twitter](https://twitter.com/orientman) |
+[FlareHR](https://www.flarehr.com/) | Sydney, Australia | FinTech, Software | [Website](https://www.flarehr.com/), [LinkedIn](https://www.linkedin.com/company/flareaus/) | No
 [Fronius](https://fronius.com/) | Austria, Wels | Electrical Equipment | [Website](https://fronius.com), [Facebook](https://www.facebook.com/fronius.int/) | 
 [Fund Ourselves](https://www.fundourselves.com) | UK, London | FinTech, P2P | [Twitter](https://twitter.com/fundourselves) | 
 [FundApps](https://www.fundapps.co) | UK, London | Software | [Stackshare](https://stackshare.io/fundapps#technology)
+[Futurelab](https://futurelabspa.it) | Italy, Bassano del Grappa | Software | | 
 [Genetec](https://www.genetec.com)| Canada, Montreal, Quebec | Security| [Twitter](https://twitter.com/genetec/status/984485239908126721)
 [GreenPowerMonitor](https://www.greenpowermonitor.com) | Spain, Barcelona | Renewable Energy | [Github](https://github.com/GreenPowerMonitor) | Ok
 [G-Research](https://www.gresearch.co.uk/)| UK, London | Finance | [Twitter](https://twitter.com/GRESEARCHjobs)
@@ -59,9 +63,10 @@ There are similar lists for companies that use the following functional language
 [Hymans Robertson LLP](https://www.hymans.co.uk/) | UK | Finance | [Slideshare](https://www.slideshare.net/KeithHarrison4/why-hymans-use-f)
 [IDTechEx](https://www.idtechex.com) | UK, Cambridge | Market Research |
 [Imperfect Foods](https://www.imperfectfoods.com) | USA, CA, San Francisco | Food Services | [Hacker News](https://news.ycombinator.com/item?id=21128684) | Ok
+[InCommodities](https://incommodities.com/) | Denmark, Aarhus | FinTech/Trading | [Website](https://incommodities.com/#careers)
 [IntelliFactory](http://intellifactory.com) | Hungary, Budapest | Software | [Github](https://github.com/intellifactory?utf8=✓&q=&type=&language=f%23)
 [iVendi](https://ivendi.com) | UK, Manchester | Software | [Twitter](https://twitter.com/iVendiLtd) | OK (part time)
-[Jet (Walmart Labs)](https://jet.com) | New Jersey (USA), Bangalore (India) | E-commerce | [Github](https://github.com/jet?utf8=✓&q=&type=&language=f%23)
+[Kroll Bond Rating Agency](https://www.kbra.com/) | USA, NY, New York | Finance | | Ok
 [KPMG (Germany)](https://home.kpmg/de/de/home.html) | Germany | Consulting | | No
 [Lambda Factory](https://lambdafactory.io) | Remote | Software & Consulting | [GitHub](https://github.com/LambdaFactory), [Twitter](https://twitter.com/Lambda_Factory) | Ok
 [Lets Roam](https://www.letsroam.com) | Denver, Colorado | Tourism | | Ok
@@ -96,8 +101,13 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Safe Banking Systems (Part of Accuity)](https://accuity.com/product/firco-screening-insight-for-accounts/) | NYC, NY and Kennesaw, GA | RiskTech | [Github](https://github.com/BayardRock) | No
 [SBTech](https://www.sbtech.com/) | Kyiv, Ukraine | Betting | |
 [Serit IT Partner Tromsø](https://serit.no/kontor/tromso/) | Norway, Tromsø | IT, Software | [GitHub](https://github.com/serit) | Ok
+[Seven Past Nine](https://sevenpastnine.com/) | Slovenia / Germany | Science, Data, Software | [GitHub](https://github.com/sevenpastnine) | Ok
 [SfSync](https://sfsync.online/) | Ukraine, Lviv/Odesa | Software (ISV) | [Facebook](https://www.facebook.com/sfsync/) | Ok (Europe only)
+[SmartStream Technologies](https://www.smartstream-stp.com/) | USA, NY, New York | Finance | | Ok
+[Softwarepark](https://www.softwarepark.cc/) | Vienna, Austria | Software | [Blog post](https://www.softwarepark.cc/blog/2020/8/9/introduction-to-functional-programming-in-f-table-of-contents) | Ok (Europe timezones only)
 [Starlizard](https://www.starlizard.com/) | UK, London | Betting consultancy | [Stack Overflow](https://stackoverflow.com/jobs/companies/starlizard)
+[StatMuse](https://statmuse.com/) | USA | NLP Software | | OK (required)
+[Statical](https://www.stati-cal.com/) | Denmark, Sønderborg | Software | [GitHub](https://github.com/Statical/) | 
 [Svea Group/ Svea Ekonomi](https://svea.com/)| Sweden, Stockholm, Solna | Financial services, banking, fintech | [Website](http://career.svea.com/)|No
 [Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
 [Tactics](https://www.tactics.be) | Belgium, Kapellen | Software | [Website](https://www.tactics.be) | Ok (Europe only)
@@ -113,5 +123,4 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Wavecom](https://wavecom.io) | Moscow, Russia | Software | [Website](https://wavecom.io/) | Ok
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
 (still-unnamed startup in stealth mode) | around Hong Kong: Guangzhou,Macau,Shenzhen,Taiwan,etc | CryptoCurrency | [HackerNews](https://news.ycombinator.com/item?id=20326739) | Ok
-[ZEUSLAB spa](https://www.zeuslab.it) | Italy, Bassano del Grappa | Software | | 
 [Zühlke Engineering](https://www.zuehlke.com/) | Germany | Software | | 
