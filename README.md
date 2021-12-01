@@ -66,7 +66,6 @@ There are similar lists for companies that use the following functional language
 [InCommodities](https://incommodities.com/) | Denmark, Aarhus | FinTech/Trading | [Website](https://incommodities.com/#careers)
 [IntelliFactory](http://intellifactory.com) | Hungary, Budapest | Software | [Github](https://github.com/intellifactory?utf8=✓&q=&type=&language=f%23)
 [iVendi](https://ivendi.com) | UK, Manchester | Software | [Twitter](https://twitter.com/iVendiLtd) | OK (part time)
-[Jet (Walmart Labs)](https://jet.com) | New Jersey (USA), Dublin (Ireland), Bangalore (India) | E-commerce | [Github](https://github.com/jet?utf8=✓&q=&type=&language=f%23)
 [Kroll Bond Rating Agency](https://www.kbra.com/) | USA, NY, New York | Finance | | Ok
 [KPMG (Germany)](https://home.kpmg/de/de/home.html) | Germany | Consulting | | No
 [Lambda Factory](https://lambdafactory.io) | Remote | Software & Consulting | [GitHub](https://github.com/LambdaFactory), [Twitter](https://twitter.com/Lambda_Factory) | Ok
