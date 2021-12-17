@@ -39,6 +39,7 @@ There are similar lists for companies that use the following functional language
 [D-EDGE](https://www.d-edge.com/) | Paris, France | Hospitality | [Github](https://github.com/d-edge?utf8=✓&q=&type=&language=f%23), [LinkedIn](https://www.linkedin.com/company/d-edge-hospitality-solutions), [Twitter](https://twitter.com/D_EDGE_Hosp) | Ok
 [Danpower](https://www.danpower.de/) | DE, Potsdam | EnergySupply | | Ok
 [Darklang](https://www.darklang.com/) | SF, CA, USA | Programming/cloud tools | [Website](https://darklang.com), [GitHub](https://github.com/darklang/dark), [Twitter](https://twitter.com/darklang) | Ok (required)
+[Datarisk](https://datarisk.io/en/) | Brazil - Florianópolis, SC / São Paulo, SP | Software & Consulting | [Linkedin](https://www.linkedin.com/company/datarisk/), [Blog](https://medium.com/datarisk-io) | Ok (required)
 [Datto](https://www.datto.com/) | UK, Amersham | Software | [Twitter](https://twitter.com/datto) | Ok
 [Dell](https://www.dell.com/) | USA, Worldwide, Remote | Technology Solutions | [Jobs](https://jobs.dell.com/) | Ok
 [Demetrix](https://www.demetrixbio.com) | Emeryville, CA, USA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
