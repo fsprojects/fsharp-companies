@@ -31,6 +31,7 @@ There are similar lists for companies that use the following functional language
 [Connect Develop](https://connectdevelop.com/) | Australia, Brisbane | Software, Energy | [Website](https://connectdevelop.com/) | |
 [Compositional IT](https://www.compositional-it.com) | United Kingdom, London | Software | [GitHub](https://github.com/compositionalit)
 [Copenhagen Software](https://copenhagensoftware.com) | Denmark, Copenhagen / Lithuania, Vilnius | Software | [Twitter](https://twitter.com/cphsoft/status/1114106216509267968) | Ok
+[CraftTalk](https://crafttalk.ru) | Russia, Moscow | Software | [Website](https://crafttalk.ru) [Facebook](https://www.facebook.com/CraftTalkAI/) [Linkedin](https://www.linkedin.com/company/crafttalk/about/) | Ok (Russia Only)
 [Criipto](https://www.criipto.com) | Denmark, Holte | Software | [GitHub](https://github.com/criipto), [LinkedIn](https:/www.linkedin.com/company/criipto), [Twitter](https://twitter.com/criipto) | Ok
 [C Tech Development Corp](https://www.ctech.com) | USA - Portland, ME / Sarasota, FL | Software | [Website](https://ctech.com) | Ok
 [Credit Suisse](https://www.credit-suisse.com) | PL - Wroclaw, Warsaw / Switzerland - Zürich / UK - London / USA - NY | Financial |  | Ok (part time)
