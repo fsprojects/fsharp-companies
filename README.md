@@ -14,6 +14,7 @@ There are similar lists for companies that use the following functional language
 
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
+[1WorldSync](https://1worldsync.com/) | Chicago | Software | |
 [69 Grad](https://69grad.de/) | Germany, Munich | Software | [Blog](https://thomasbandt.com) | Ok
 [Acadian Ambulance](https://www.acadian.com/) | USA, LA, Lafayette | Healthcare | [GitHub](https://github.com/Acadian-Ambulance/) | Ok
 [Antura](https://www.antura.se/) | Sweden, Gothenburg | Software | | 
