@@ -119,6 +119,7 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [TotallyMoney](https://www.totallymoney.com) | United Kingdom, London | FinTech | [GitHub](https://github.com/totallymoney), [Stackshare](https://stackshare.io/totallymoney-com/totallymoney-com) | |
 [Trampoline](https://trampolineup.com) | Italy, Turin | Software/IoT | [GitHub](https://github.com/kiotlog)
 [University of Arizona, College of Medicine - Tucson](https://medicine.arizona.edu/) | Tucson, Arizona, USA | Education | [GitHub](https://github.com/UACOMTucson) | No
+[Valora](https://www.valora.com/en/) | Switzerland, Zurich/Basel | Retail | | Ok (EU only)
 [Veepee](https://www.veepee.com) | France, Saint-Denis | E-commerce | [Twitter](https://twitter.com/veepeetech_), [GitHub](https://github.com/veepee-oss) | Ok (Europe only)
 [vlot.](https://www.vlot.ch) | Switzerland, Zürich/Basel | Insurance, InsurTech | [GitHub](https://github.com/vlot), [Twitter](https://twitter.com/vlotltd), [Stack Overflow](https://stackoverflow.com/jobs/companies/vlot), [LinkedIn](https://www.linkedin.com/company/vlot-ltd)
 [Walmart Labs](https://www.walmartlabs.com) | Mountain View, CA | Retail | [Github](https://github.com/walmartlabs) [Twitter](https://twitter.com/WalmartLabs) [LinkedIn](https://www.linkedin.com/company/walmart-labs)
