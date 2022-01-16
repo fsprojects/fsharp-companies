@@ -37,6 +37,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [D-EDGE](https://www.d-edge.com/) | Paris, France | Hospitality | [Github](https://github.com/d-edge?utf8=✓&q=&type=&language=f%23), [LinkedIn](https://www.linkedin.com/company/d-edge-hospitality-solutions), [Twitter](https://twitter.com/D_EDGE_Hosp) | Ok
 [Danpower](https://www.danpower.de/) | DE, Potsdam | EnergySupply | | Ok
 [Darklang](https://www.darklang.com/) | SF, CA, USA | Programming/cloud tools | [Website](https://darklang.com), [GitHub](https://github.com/darklang/dark), [Twitter](https://twitter.com/darklang) | Ok (required)
+[DataBreeze](https://www.databreeze.de/) | Canada - Ottawa, ON / Germany - Brieselang | EnergyData, Digital Metering, Software Engineering | [LinkedIn](https://www.linkedin.com/company/databreeze/), [Twitter](https://twitter.com/DataBreeze) | Ok
 [Datto](https://www.datto.com/) | UK, Amersham | Software | [Twitter](https://twitter.com/datto) | Ok
 [Dell](https://www.dell.com/) | USA, Worldwide, Remote | Technology Solutions | [Jobs](https://jobs.dell.com/) | Ok
 [Demetrix](https://www.demetrixbio.com) | Emeryville, CA, USA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
