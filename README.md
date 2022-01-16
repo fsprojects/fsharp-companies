@@ -3,7 +3,8 @@ Community curated list of companies that use F#
 
 This list has been made in collaboration with members of [/r/fsharp](https://www.reddit.com/r/fsharp)
 
-Learn more about F# at [fsharp.org](https://fsharp.org).
+Learn more about F# at [fsharp.org](https://fsharp.org).  
+If your company loves and benefits from using F#, consider submitting a [testimonial](https://fsharp.org/testimonials) to share with others.
 
 ### Companies
 
