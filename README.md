@@ -3,17 +3,14 @@ Community curated list of companies that use F#
 
 This list has been made in collaboration with members of [/r/fsharp](https://www.reddit.com/r/fsharp)
 
-There are similar lists for companies that use the following functional languages: 
-
-1. [Haskell](https://github.com/erkmos/haskell-companies)
-2. [PureScript](https://github.com/ajnsit/purescript-companies)
-3. [Elm](https://github.com/jah2488/elm-companies)
-4. [Elixir](https://github.com/beam-community/elixir-companies)
+Learn more about F# at [fsharp.org](https://fsharp.org).  
+If your company loves and benefits from using F#, consider submitting a [testimonial](https://fsharp.org/testimonials) to share with others.
 
 ### Companies
 
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
+[1WorldSync](https://1worldsync.com/) | Chicago | Software | |
 [69 Grad](https://69grad.de/) | Germany, Munich | Software | [Blog](https://thomasbandt.com) | Ok
 [Acadian Ambulance](https://www.acadian.com/) | USA, LA, Lafayette | Healthcare | [GitHub](https://github.com/Acadian-Ambulance/) | Ok
 [Antura](https://www.antura.se/) | Sweden, Gothenburg | Software | | 
@@ -31,6 +28,7 @@ There are similar lists for companies that use the following functional language
 [Connect Develop](https://connectdevelop.com/) | Australia, Brisbane | Software, Energy | [Website](https://connectdevelop.com/) | |
 [Compositional IT](https://www.compositional-it.com) | United Kingdom, London | Software | [GitHub](https://github.com/compositionalit)
 [Copenhagen Software](https://copenhagensoftware.com) | Denmark, Copenhagen / Lithuania, Vilnius | Software | [Twitter](https://twitter.com/cphsoft/status/1114106216509267968) | Ok
+[CraftTalk](https://crafttalk.ru) | Russia, Moscow | Software | [Website](https://crafttalk.ru) [Facebook](https://www.facebook.com/CraftTalkAI/) [Linkedin](https://www.linkedin.com/company/crafttalk/about/) | Ok (Russia Only)
 [Criipto](https://www.criipto.com) | Denmark, Holte | Software | [GitHub](https://github.com/criipto), [LinkedIn](https:/www.linkedin.com/company/criipto), [Twitter](https://twitter.com/criipto) | Ok
 [C Tech Development Corp](https://www.ctech.com) | USA - Portland, ME / Sarasota, FL | Software | [Website](https://ctech.com) | Ok
 [Credit Suisse](https://www.credit-suisse.com) | PL - Wroclaw, Warsaw / Switzerland - Zürich / UK - London / USA - NY | Financial |  | Ok (part time)
@@ -40,6 +38,7 @@ There are similar lists for companies that use the following functional language
 [Danpower](https://www.danpower.de/) | DE, Potsdam | EnergySupply | | Ok
 [Darklang](https://www.darklang.com/) | SF, CA, USA | Programming/cloud tools | [Website](https://darklang.com), [GitHub](https://github.com/darklang/dark), [Twitter](https://twitter.com/darklang) | Ok (required)
 [Datarisk](https://datarisk.io/en/) | Brazil - Florianópolis, SC / São Paulo, SP | Software & Consulting | [Linkedin](https://www.linkedin.com/company/datarisk/), [Blog](https://medium.com/datarisk-io) | Ok (required)
+[DataBreeze](https://www.databreeze.de/) | Canada - Ottawa, ON / Germany - Brieselang | EnergyData, Digital Metering, Software Engineering | [LinkedIn](https://www.linkedin.com/company/databreeze/), [Twitter](https://twitter.com/DataBreeze) | Ok
 [Datto](https://www.datto.com/) | UK, Amersham | Software | [Twitter](https://twitter.com/datto) | Ok
 [Dell](https://www.dell.com/) | USA, Worldwide, Remote | Technology Solutions | [Jobs](https://jobs.dell.com/) | Ok
 [Demetrix](https://www.demetrixbio.com) | Emeryville, CA, USA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
@@ -118,10 +117,12 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [TotallyMoney](https://www.totallymoney.com) | United Kingdom, London | FinTech | [GitHub](https://github.com/totallymoney), [Stackshare](https://stackshare.io/totallymoney-com/totallymoney-com) | |
 [Trampoline](https://trampolineup.com) | Italy, Turin | Software/IoT | [GitHub](https://github.com/kiotlog)
 [University of Arizona, College of Medicine - Tucson](https://medicine.arizona.edu/) | Tucson, Arizona, USA | Education | [GitHub](https://github.com/UACOMTucson) | No
+[Valora](https://www.valora.com/en/) | Switzerland, Zurich/Basel | Retail | | Ok (EU only)
 [Veepee](https://www.veepee.com) | France, Saint-Denis | E-commerce | [Twitter](https://twitter.com/veepeetech_), [GitHub](https://github.com/veepee-oss) | Ok (Europe only)
 [vlot.](https://www.vlot.ch) | Switzerland, Zürich/Basel | Insurance, InsurTech | [GitHub](https://github.com/vlot), [Twitter](https://twitter.com/vlotltd), [Stack Overflow](https://stackoverflow.com/jobs/companies/vlot), [LinkedIn](https://www.linkedin.com/company/vlot-ltd)
 [Walmart Labs](https://www.walmartlabs.com) | Mountain View, CA | Retail | [Github](https://github.com/walmartlabs) [Twitter](https://twitter.com/WalmartLabs) [LinkedIn](https://www.linkedin.com/company/walmart-labs)
 [Wavecom](https://wavecom.io) | Moscow, Russia | Software | [Website](https://wavecom.io/) | Ok
+[White Oak AM](https://www.whiteoakam.com/) | Switzerland, Geneva | Finance | [Website](https://www.whiteoakam.com/) | No
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
 (still-unnamed startup in stealth mode) | around Hong Kong: Guangzhou,Macau,Shenzhen,Taiwan,etc | CryptoCurrency | [HackerNews](https://news.ycombinator.com/item?id=20326739) | Ok
 [Zühlke Engineering](https://www.zuehlke.com/) | Germany | Software | | 
