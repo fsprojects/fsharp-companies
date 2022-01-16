@@ -112,6 +112,7 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
 [Tactics](https://www.tactics.be) | Belgium, Kapellen | Software | [Website](https://www.tactics.be) | Ok (Europe only)
 [The Secret Circle Solutions](https://secretcircle.solutions/) | Ukraine, Kherson/Odesa | Software development services | [Website](https://secretcircle.solutions/), [Facebook](https://www.facebook.com/scrtcrcl/) | Ok (Europe only)
+[Tismo Technology Solutions](https://www.tismotech.com) | Bangalore, India | Software development services | [Website](https://www.tismotech.com) | No 
 [The Trainline](https://www.thetrainline.com) | UK,London | Software | [Stackshare](https://stackshare.io/trainline)
 [THEED](https://www.theed.technology) | Germany / Online | Software | | Ok (German speaking)
 [TotallyMoney](https://www.totallymoney.com) | United Kingdom, London | FinTech | [GitHub](https://github.com/totallymoney), [Stackshare](https://stackshare.io/totallymoney-com/totallymoney-com) | |
