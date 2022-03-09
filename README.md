@@ -16,6 +16,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [Antura](https://www.antura.se/) | Sweden, Gothenburg | Software | | 
 [Amyris](https://amyris.com/) | USA, CA, Emeryville | Synthetic Biology | [Twitter](https://twitter.com/amyris)
 [Arkadium](https://inhabit.arkadium.com/) | USA, NY / Russia, Krasnodar | Software | [Twitter](https://twitter.com/Arkadium)
+[AutoStore](https://www.autostoresystem.com/) | Norway (HQ) & Remote | Warehouse Management & eGrocery | [Twitter](https://twitter.com/AutoStoresystem) | Ok
 [Bazinga Technologies](https://mybazinga.com/) | Canada, Vancouver, BC | Software | [Twitter](https://twitter.com/getbazinga)
 [Binary Defense](https://www.binarydefense.com/) | USA, OH, Akron | Infosec/Endpoint Monitoring | [Twitter](https://twitter.com/binary_defense?lang=en) | Ok (US only)
 [BinaryGears](https://www.binarygears.de/) | Germany, Frankfurt | Software | [GitHub](https://github.com/ronaldschlenker) | Ok
@@ -72,7 +73,6 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [Lets Roam](https://www.letsroam.com) | Denver, Colorado | Tourism | | Ok
 [LetsGetChecked](https://www.letsgetchecked.com) | Ireland, Dublin | Healthcare | [StackShare](https://stackshare.io/lets-get-checked/lets-get-checked), [Job Posting](https://letsgetchecked.bamboohr.com/jobs/view.php?id=67)
 [Liberty Financial](https://www.liberty.com.au) | Australia, Melbourne | Finance | [Twitter](https://twitter.com/danielchmbrs/status/1198813082169987072) | |
-[Locai Solutions](https://locaisolutions.com) | Remote, U.S. | eGrocery | | Ok
 [Logic Studio](https://www.logicstudio.net) | Quito, Ecuador | Web UI Test Automation, RPA with Canopy. Bot Framework chatbots. | | Ok
 [Lokad](https://www.lokad.com) | France, Paris | Software | [Careers](https://www.lokad.com/software-engineering) |
 [Masse](https://shopmasse.com) | USA, NY, New York | eCommerce | [Twitter](https://twitter.com/shop_masse), [Instagram](https://instagram.com/shop_masse)
