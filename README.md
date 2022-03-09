@@ -16,7 +16,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [Antura](https://www.antura.se/) | Sweden, Gothenburg | Software | | 
 [Amyris](https://amyris.com/) | USA, CA, Emeryville | Synthetic Biology | [Twitter](https://twitter.com/amyris)
 [Arkadium](https://inhabit.arkadium.com/) | USA, NY / Russia, Krasnodar | Software | [Twitter](https://twitter.com/Arkadium)
-[AutoStore](https://www.autostoresystem.com/) | Norway (HQ) & Remote | Warehouse Management & eGrocery | | Ok
+[AutoStore](https://www.autostoresystem.com/) | Norway (HQ) & Remote | Warehouse Management & eGrocery | [Twitter](https://twitter.com/AutoStoresystem) | Ok
 [Bazinga Technologies](https://mybazinga.com/) | Canada, Vancouver, BC | Software | [Twitter](https://twitter.com/getbazinga)
 [Binary Defense](https://www.binarydefense.com/) | USA, OH, Akron | Infosec/Endpoint Monitoring | [Twitter](https://twitter.com/binary_defense?lang=en) | Ok (US only)
 [BinaryGears](https://www.binarygears.de/) | Germany, Frankfurt | Software | [GitHub](https://github.com/ronaldschlenker) | Ok
