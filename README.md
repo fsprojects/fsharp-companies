@@ -75,6 +75,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [Liberty Financial](https://www.liberty.com.au) | Australia, Melbourne | Finance | [Twitter](https://twitter.com/danielchmbrs/status/1198813082169987072) | |
 [Logic Studio](https://www.logicstudio.net) | Quito, Ecuador | Web UI Test Automation, RPA with Canopy. Bot Framework chatbots. | | Ok
 [Lokad](https://www.lokad.com) | France, Paris | Software | [Careers](https://www.lokad.com/software-engineering) |
+[Lula](https://www.lula.is) | USA, FL, Miami | Insurtech | [Careers](https://www.lula.is/careers) | Ok
 [Masse](https://shopmasse.com) | USA, NY, New York | eCommerce | [Twitter](https://twitter.com/shop_masse), [Instagram](https://instagram.com/shop_masse)
 [Microdesk](https://www.microdesk.com/) | USA, UK, Remote | BIM | [Careers](https://www.microdesk.com/career-opportunities/), [Twitter](https://twitter.com/MicrodeskInc) | Ok
 [Microsoft](https://www.microsoft.com) | Worldwide | Software | [GitHub](https://github.com/dotnet/fsharp) | Ok
