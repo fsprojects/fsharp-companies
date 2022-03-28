@@ -65,7 +65,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [IDTechEx](https://www.idtechex.com) | UK, Cambridge | Market Research |
 [Imperfect Foods](https://www.imperfectfoods.com) | USA, CA, San Francisco | Food Services | [Hacker News](https://news.ycombinator.com/item?id=21128684) | Ok
 [InCommodities](https://incommodities.com/) | Denmark, Aarhus | FinTech/Trading | [Website](https://incommodities.com/#careers)
-[Insurello](https://insurello.se/) | Sweden, Stockholm | InsurTech | [Github](https://github.com/insurello/)
+[Insurello](https://insurello.se/) | Sweden, Stockholm | InsurTech | [Github](https://github.com/insurello/) | Ok (part time, Sweden only)
 [IntelliFactory](http://intellifactory.com) | Hungary, Budapest | Software | [Github](https://github.com/intellifactory?utf8=✓&q=&type=&language=f%23)
 [iVendi](https://ivendi.com) | UK, Manchester | Software | [Twitter](https://twitter.com/iVendiLtd) | OK (part time)
 [Kroll Bond Rating Agency](https://www.kbra.com/) | USA, NY, New York | Finance | | Ok
