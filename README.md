@@ -104,7 +104,6 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Seven Past Nine](https://sevenpastnine.com/) | Slovenia / Germany | Science, Data, Software | [GitHub](https://github.com/sevenpastnine) | Ok
 [SfSync](https://sfsync.online/) | Ukraine, Lviv/Odesa | Software (ISV) | [Facebook](https://www.facebook.com/sfsync/) | Ok (Europe only)
 [SmartStream Technologies](https://www.smartstream-stp.com/) | USA, NY, New York | Finance | | Ok
-[Softwarepark](https://www.softwarepark.cc/) | Vienna, Austria | Software | [Blog post](https://www.softwarepark.cc/blog/2020/8/9/introduction-to-functional-programming-in-f-table-of-contents) | Ok (Europe timezones only)
 [Starlizard](https://www.starlizard.com/) | UK, London | Betting consultancy | [Stack Overflow](https://stackoverflow.com/jobs/companies/starlizard)
 [StatMuse](https://statmuse.com/) | USA | NLP Software | | OK (required)
 [Statical](https://www.stati-cal.com/) | Denmark, Sønderborg | Software | [GitHub](https://github.com/Statical/) | 
@@ -117,6 +116,7 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [THEED](https://www.theed.technology) | Germany / Online | Software | | Ok (German speaking)
 [TotallyMoney](https://www.totallymoney.com) | United Kingdom, London | FinTech | [GitHub](https://github.com/totallymoney), [Stackshare](https://stackshare.io/totallymoney-com/totallymoney-com) | |
 [Trampoline](https://trampolineup.com) | Italy, Turin | Software/IoT | [GitHub](https://github.com/kiotlog)
+[Trustbit](https://trustbit.tech/) | Vienna, Austria | Software | [Blog post](https://trustbit.tech/blog/2020/08/09/introduction-to-functional-programming-in-f-sharp-table-of-contents) | Ok (Europe timezones only)
 [University of Arizona, College of Medicine - Tucson](https://medicine.arizona.edu/) | Tucson, Arizona, USA | Education | [GitHub](https://github.com/UACOMTucson) | No
 [Valora](https://www.valora.com/en/) | Switzerland, Zurich/Basel | Retail | | Ok (EU only)
 [Veepee](https://www.veepee.com) | France, Saint-Denis | E-commerce | [Twitter](https://twitter.com/veepeetech_), [GitHub](https://github.com/veepee-oss) | Ok (Europe only)
