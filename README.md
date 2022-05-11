@@ -13,6 +13,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [1WorldSync](https://1worldsync.com/) | Chicago | Software | |
 [69 Grad](https://69grad.de/) | Germany, Munich | Software | [Blog](https://thomasbandt.com) | Ok
 [Acadian Ambulance](https://www.acadian.com/) | USA, LA, Lafayette | Healthcare | [GitHub](https://github.com/Acadian-Ambulance/) | Ok
+[Access Softek](https://www.accesssoftek.com/) | USA, CA, Berkeley| Finance | [Careers](https://jobs.lever.co/accesssoftek/) | Ok
 [Antura](https://www.antura.se/) | Sweden, Gothenburg | Software | | 
 [Amyris](https://amyris.com/) | USA, CA, Emeryville | Synthetic Biology | [Twitter](https://twitter.com/amyris)
 [Arkadium](https://inhabit.arkadium.com/) | USA, NY / Russia, Krasnodar | Software | [Twitter](https://twitter.com/Arkadium)
