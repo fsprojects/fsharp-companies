@@ -130,6 +130,7 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [vlot.](https://www.vlot.ch) | Switzerland, Zürich/Basel | Insurance, InsurTech | [GitHub](https://github.com/vlot), [Twitter](https://twitter.com/vlotltd), [Stack Overflow](https://stackoverflow.com/jobs/companies/vlot), [LinkedIn](https://www.linkedin.com/company/vlot-ltd)
 [Walmart Labs](https://www.walmartlabs.com) | Mountain View, CA | Retail | [Github](https://github.com/walmartlabs) [Twitter](https://twitter.com/WalmartLabs) [LinkedIn](https://www.linkedin.com/company/walmart-labs)
 [Wavecom](https://wavecom.io) | Moscow, Russia | Software | [Website](https://wavecom.io/) | Ok
+[Welendus](https://welendus.com) | USA, TX, Dallas | FinTech | [Website](https://welendus.com) | 
 [White Oak AM](https://www.whiteoakam.com/) | Switzerland, Geneva | Finance | [Website](https://www.whiteoakam.com/) | No
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
 (still-unnamed startup in stealth mode) | around Hong Kong: Guangzhou,Macau,Shenzhen,Taiwan,etc | CryptoCurrency | [HackerNews](https://news.ycombinator.com/item?id=20326739) | Ok
