@@ -59,6 +59,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [Fund Ourselves](https://www.fundourselves.com) | UK, London | FinTech, P2P | [Twitter](https://twitter.com/fundourselves) | 
 [FundApps](https://www.fundapps.co) | UK, London | Software | [Stackshare](https://stackshare.io/fundapps#technology)
 [Futurelab](https://futurelabspa.it) | Italy, Bassano del Grappa | Software | | 
+[Fuzzy Cloud](https://fuzzycloud.in) | Ahmedabad, Gujarat, India | Software Development and Consulting Services | [Github](https://github.com/fuzzycloud/) | Ok |
 [Genetec](https://www.genetec.com)| Canada, Montreal, Quebec | Security| [Twitter](https://twitter.com/genetec/status/984485239908126721)
 [GreenPowerMonitor](https://www.greenpowermonitor.com) | Spain, Barcelona | Renewable Energy | [Github](https://github.com/GreenPowerMonitor) | Ok
 [G-Research](https://www.gresearch.co.uk/)| UK, London | Finance | [Twitter](https://twitter.com/GRESEARCHjobs)
