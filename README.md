@@ -25,6 +25,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [Blocher Consulting](http://blocherconsulting.com/) | USA - Champaign, IL / Canada - Hamilton, ON | Consulting | [LinkedIn](https://www.linkedin.com/company/blocherconsulting/) | Ok |
 [Blue Trading Systems](https://www.bluetradingsystems.com/) | USA - Chapel Hill, NC / Chicago, IL | Financial | [Twitter](https://twitter.com/bts_software) | | 
 [Bouygues Travaux Publics](http://www.bouygues-tp.com/) | Guyancourt, France | Construction Engineering | [Website](http://www.bouygues-tp.com/), [Twitter](https://twitter.com/bouygues_c), [LinkedIn](https://www.linkedin.com/company/bouygues-travaux-publics/)| Ok (part time, France only)
+[Calitime AG](https://www.calitime.ch) | Switzerland, Schenkon | Time tracking solutions | [LinkedIn](https://www.linkedin.com/company/calitime-ag/) | Ok (CH only)
 [Cardlytics](https://www.cardlytics.com/) | USA, GA, Atlanta | Marketing, FinTech | [Website](https://www.cardlytics.com/) | Ok |
 [Cazana](https://cazana.com/uk) | London, UK | Data Mining, Automotive | [Twitter](https://twitter.com/Cazana) | Ok |
 [CN Group CZ](https://www.cngroup.dk/) | Czech Republic, Prague | Software | [Twitter](https://twitter.com/cngroup_cz), [Website](https://www.cngroup.dk) | 
