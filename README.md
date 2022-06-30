@@ -138,3 +138,4 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
 (still-unnamed startup in stealth mode) | around Hong Kong: Guangzhou,Macau,Shenzhen,Taiwan,etc | CryptoCurrency | [HackerNews](https://news.ycombinator.com/item?id=20326739) | Ok
 [Zühlke Engineering](https://www.zuehlke.com/) | Germany | Software | | 
+[ALTA Software](https://www.altasoft.net/) | Tbilisi, Georgia | FinTech | [LinkedIn](https://www.linkedin.com/company/alta-software) |
