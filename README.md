@@ -64,6 +64,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [GreenPowerMonitor](https://www.greenpowermonitor.com) | Spain, Barcelona | Renewable Energy | [Github](https://github.com/GreenPowerMonitor) | Ok
 [G-Research](https://www.gresearch.co.uk/)| UK, London | Finance | [Twitter](https://twitter.com/GRESEARCHjobs)
 Hardt Coded GmbH | Germany | Software | |
+[Haumohio](https://haumohio.com)| New Zealand, Christchurch | Software Development and Consulting Services |  [Github](https://github.com/claruspeter) | Ok |
 [HGV](https://www.hgv.it) | IT, South Tyrol | Hoteliers and Restaurateurs | | No
 [HighGear](https://highgear.com) | USA, MD, Frederick | Software | [Blog post](https://www.highgear.com/blog/why-we-chose-to-write-important-code-in-f-sharp/) | No
 [Housing Insight](https://www.housing-insight.co.uk/) | UK | Property & Housing technology | | OK (required)
