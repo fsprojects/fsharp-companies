@@ -109,6 +109,7 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Robotmaster](https://www.robotmaster.com/en/) | Canada, Montreal, Quebec | Robotics | ?
 [Safe Banking Systems (Part of Accuity)](https://accuity.com/product/firco-screening-insight-for-accounts/) | NYC, NY and Kennesaw, GA | RiskTech | [Github](https://github.com/BayardRock) | No
 [SBTech](https://www.sbtech.com/) | Kyiv, Ukraine | Betting | |
+[SelectView Data Solutions](https://selectviewdata.com/) | USA, St. Louis / Poland, Wrocław | Construction | | Ok (European time zones)
 [Serit IT Partner Tromsø](https://serit.no/kontor/tromso/) | Norway, Tromsø | IT, Software | [GitHub](https://github.com/serit) | Ok
 [Seven Past Nine](https://sevenpastnine.com/) | Slovenia / Germany | Science, Data, Software | [GitHub](https://github.com/sevenpastnine) | Ok
 [SfSync](https://sfsync.online/) | Ukraine, Lviv/Odesa | Software (ISV) | [Facebook](https://www.facebook.com/sfsync/) | Ok (Europe only)
