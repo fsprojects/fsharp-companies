@@ -15,6 +15,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [Abramad](https://www.abramad.com/) | Tehran, Iran | Cloud Services | | Ok (Iran only)
 [Acadian Ambulance](https://www.acadian.com/) | USA, LA, Lafayette | Healthcare | [GitHub](https://github.com/Acadian-Ambulance/) | Ok
 [Access Softek](https://www.accesssoftek.com/) | USA, CA, Berkeley| Finance | [Careers](https://jobs.lever.co/accesssoftek/) | Ok
+[ALTA Software](https://www.altasoft.net/) | Tbilisi, Georgia | FinTech | [LinkedIn](https://www.linkedin.com/company/alta-software) |
 [Antura](https://www.antura.se/) | Sweden, Gothenburg | Software | | 
 [Amyris](https://amyris.com/) | USA, CA, Emeryville | Synthetic Biology | [Twitter](https://twitter.com/amyris)
 [Arkadium](https://inhabit.arkadium.com/) | USA, NY / Russia, Krasnodar | Software | [Twitter](https://twitter.com/Arkadium)
@@ -137,6 +138,4 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Welendus](https://welendus.com) | USA, TX, Dallas | FinTech | [Website](https://welendus.com) | 
 [White Oak AM](https://www.whiteoakam.com/) | Switzerland, Geneva | Finance | [Website](https://www.whiteoakam.com/) | No
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
-(still-unnamed startup in stealth mode) | around Hong Kong: Guangzhou,Macau,Shenzhen,Taiwan,etc | CryptoCurrency | [HackerNews](https://news.ycombinator.com/item?id=20326739) | Ok
 [Zühlke Engineering](https://www.zuehlke.com/) | Germany | Software | | 
-[ALTA Software](https://www.altasoft.net/) | Tbilisi, Georgia | FinTech | [LinkedIn](https://www.linkedin.com/company/alta-software) |
