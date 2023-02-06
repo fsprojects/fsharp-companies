@@ -55,7 +55,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [FinAi](https://www.finai.com/) | Warsaw, Poland | FinTech, Software | [Website](https://www.finai.com/), [Twitter](https://twitter.com/orientman) |
 [FlareHR](https://www.flarehr.com/) | Sydney, Australia | FinTech, Software | [Website](https://www.flarehr.com/), [LinkedIn](https://www.linkedin.com/company/flareaus/) | No
 [Fronius](https://fronius.com/) | Austria, Wels | Electrical Equipment | [Website](https://fronius.com), [Facebook](https://www.facebook.com/fronius.int/) | 
-[Functor](https://www.functor.team) | Russia, Izhevsk | Software | [Website](https://www.functor.team) | Ok |
+[Functor](https://www.functor.team) | Serbia, Belgrade / Russia, Izhevsk | Software | [Website](https://www.functor.team) | Ok |
 [Fund Ourselves](https://www.fundourselves.com) | UK, London | FinTech, P2P | [Twitter](https://twitter.com/fundourselves) | 
 [FundApps](https://www.fundapps.co) | UK, London | Software | [Stackshare](https://stackshare.io/fundapps#technology)
 [Futurelab](https://futurelabspa.it) | Italy, Bassano del Grappa | Software | | 
