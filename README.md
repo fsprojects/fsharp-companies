@@ -104,9 +104,9 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Prolucid](https://prolucid.ca) | Canada, Mississauga, Ontario | Software | [Website](https://prolucid.ca/open-sourcing-thunderdome-open-source-%E2%99%A5/) |
 [Property With Potential](https://propertytorenovate.co.uk/) | UK,London | Software | [Stackshare](https://stackshare.io/property-with-potential/property-with-potential)
 [Prover Technology](https://www.prover.com/) | Sweden,Stockholm | SW/HW verification | |
-[Quicken Loans](https://www.quickenloans.com) | USA, MI, Detroit | FinTech | | OK
 [Rhein-Spree Software Engineering GmbH](https://www.rhein-spree.com) | Germany, Berlin | Software | [GitHub](https://github.com/rheinspree) | Ok
 [Robotmaster](https://www.robotmaster.com/en/) | Canada, Montreal, Quebec | Robotics | ?
+[Rocket Mortgage](https://www.rocketmortgage.com/) | USA, MI, Detroit | FinTech | | OK
 [Safe Banking Systems (Part of Accuity)](https://accuity.com/product/firco-screening-insight-for-accounts/) | NYC, NY and Kennesaw, GA | RiskTech | [Github](https://github.com/BayardRock) | No
 [SBTech](https://www.sbtech.com/) | Kyiv, Ukraine | Betting | |
 [SelectView Data Solutions](https://selectviewdata.com/) | USA, St. Louis / Poland, Wrocław | Construction | | Ok (European time zones)
