@@ -11,6 +11,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
 [1WorldSync](https://1worldsync.com/) | Chicago | Software | |
+[5G Pay](https://5gpay.com/) | Austria, Vienna | Software | [Blog](https://5gpay.com/blog) | Ok
 [69 Grad](https://69grad.de/) | Germany, Munich | Software | [Blog](https://thomasbandt.com) | Ok
 [Abramad](https://www.abramad.com/) | Tehran, Iran | Cloud Services | | Ok (Iran only)
 [Acadian Ambulance](https://www.acadian.com/) | USA, LA, Lafayette | Healthcare | [GitHub](https://github.com/Acadian-Ambulance/) | Ok
