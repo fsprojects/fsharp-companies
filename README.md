@@ -48,7 +48,6 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [DataBreeze](https://www.databreeze.de/) | Canada - Ottawa, ON / Germany - Brieselang | EnergyData, Digital Metering, Software Engineering | [LinkedIn](https://www.linkedin.com/company/databreeze/), [Twitter](https://twitter.com/DataBreeze) | Ok
 [Datto](https://www.datto.com/) | UK, Amersham | Software | [Twitter](https://twitter.com/datto) | Ok
 [Dell](https://www.dell.com/) | USA, Worldwide, Remote | Technology Solutions | [Jobs](https://jobs.dell.com/) | Ok
-[Demetrix](https://www.demetrixbio.com) | Emeryville, CA, USA | Synthetic biology | [Github](https://github.com/demetrixbio/) | Ok
 [DEX Imaging](https://www.deximaging.com) | Tampa, FL, USA | Office Equipment | [Twitter](https://twitter.com/deximaging) | Ok
 [Domain](https://www.domain.com.au) | Australia, Sydney | Property Portal | [Website](https://tech.domain.com.au/careers/)
 [Edelweiss Connect GmbH](https://edelweissconnect.com) | Basel, Switzerland | Toxicology | [Github](https://github.com/douglasconnect) | Ok
