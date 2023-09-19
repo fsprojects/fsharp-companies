@@ -49,6 +49,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [Datto](https://www.datto.com/) | UK, Amersham | Software | [Twitter](https://twitter.com/datto) | Ok
 [Dell](https://www.dell.com/) | USA, Worldwide, Remote | Technology Solutions | [Jobs](https://jobs.dell.com/) | Ok
 [DEX Imaging](https://www.deximaging.com) | Tampa, FL, USA | Office Equipment | [Twitter](https://twitter.com/deximaging) | Ok
+[Divisions Maintenaince Group](https://divisionsmg.com/) | Cincinnati, OH, US | Marketplace for Facility Maintenance | [Website](https://divisionsmg.com/) [Jobs](https://divisionsmg.com/careers/open-jobs/) | Ok (Primarily US, also Canada, Brazil, Romania)
 [Domain](https://www.domain.com.au) | Australia, Sydney | Property Portal | [Website](https://tech.domain.com.au/careers/)
 [Edelweiss Connect GmbH](https://edelweissconnect.com) | Basel, Switzerland | Toxicology | [Github](https://github.com/douglasconnect) | Ok
 [Ekon Benefits](https://ekonbenefits.com) | USA, MO, Saint Louis | Financial | [Github](https://github.com/ekonbenefits?utf8=✓&q=&type=public&language=f%23)
