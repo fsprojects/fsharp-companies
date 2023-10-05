@@ -23,7 +23,6 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [AutoStore](https://www.autostoresystem.com/) | USA, CO, Denver; Remote; and Norway (HQ) | Warehouse Management | [Website](https://www.autostoresystem.com/), [LinkedIn](https://www.linkedin.com/company/autostoresystem), [Twitter](https://twitter.com/AutoStoresystem) | Ok
 [Bazinga Technologies](https://mybazinga.com/) | Canada, Vancouver, BC | Software | [Twitter](https://twitter.com/getbazinga)
 [Binary Defense](https://www.binarydefense.com/) | USA, OH, Akron | Infosec/Endpoint Monitoring | [Twitter](https://twitter.com/binary_defense?lang=en) | Ok (US only)
-[BinaryGears](https://www.binarygears.de/) | Germany, Frankfurt | Software | [GitHub](https://github.com/ronaldschlenker) | Ok
 [Blocher Consulting](http://blocherconsulting.com/) | USA - Champaign, IL / Canada - Hamilton, ON | Consulting | [LinkedIn](https://www.linkedin.com/company/blocherconsulting/) | Ok |
 [Blue Trading Systems](https://www.bluetradingsystems.com/) | USA - Chapel Hill, NC / Chicago, IL | Financial | [Twitter](https://twitter.com/bts_software) | | 
 [Bouygues Travaux Publics](http://www.bouygues-tp.com/) | Guyancourt, France | Construction Engineering | [Website](http://www.bouygues-tp.com/), [Twitter](https://twitter.com/bouygues_c), [LinkedIn](https://www.linkedin.com/company/bouygues-travaux-publics/)| Ok (part time, France only)
