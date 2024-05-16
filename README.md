@@ -118,7 +118,8 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [SmartStream Technologies](https://www.smartstream-stp.com/) | USA, NY, New York | Finance | | Ok
 [Starlizard](https://www.starlizard.com/) | UK, London | Betting consultancy | [Stack Overflow](https://stackoverflow.com/jobs/companies/starlizard)
 [StatMuse](https://statmuse.com/) | USA | NLP Software | | OK (required)
-[Statical](https://www.stati-cal.com/) | Denmark, Sønderborg | Software | [GitHub](https://github.com/Statical/) | 
+[Statical](https://www.stati-cal.com/) | Denmark, Sønderborg | Software | [GitHub](https://github.com/Statical/) |
+[Sunday Power](https://sundaypower.no/) | Norway, Oslo | Solar Power | [GitHub](https://github.com/sundaypower/) |
 [Svea Group/ Svea Ekonomi](https://svea.com/)| Sweden, Stockholm, Solna | Financial services, banking, fintech | [Website](http://career.svea.com/)|No
 [Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
 [Tactics](https://www.tactics.be) | Belgium, Kapellen | Software | [Website](https://www.tactics.be) | Ok (Europe only)
