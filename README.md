@@ -78,6 +78,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [iVendi](https://ivendi.com) | UK, Manchester | Software | [Twitter](https://twitter.com/iVendiLtd) | OK (part time)
 [Kroll Bond Rating Agency](https://www.kbra.com/) | USA, NY, New York | Finance | | Ok
 [KPMG (Germany)](https://home.kpmg/de/de/home.html) | Germany | Consulting | | No
+[KPMG (Switzerland)](https://kpmg.com/ch/) | Switzerland | Consulting | | Yes (Switzerland only)
 [Lambda Factory](https://lambdafactory.io) | Remote | Software & Consulting | [GitHub](https://github.com/LambdaFactory), [Twitter](https://twitter.com/Lambda_Factory) | Ok
 [Lets Roam](https://www.letsroam.com) | Denver, Colorado | Tourism | | Ok
 [LetsGetChecked](https://www.letsgetchecked.com) | Ireland, Dublin | Healthcare | [StackShare](https://stackshare.io/lets-get-checked/lets-get-checked), [Job Posting](https://letsgetchecked.bamboohr.com/jobs/view.php?id=67)
