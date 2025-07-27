@@ -125,12 +125,12 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Tachyus](https://www.tachyus.com) | Houston, TX | Oil & Gas | [GitHub](https://github.com/tachyus)
 [Tactics](https://www.tactics.be) | Belgium, Kapellen | Software | [Website](https://www.tactics.be) | Ok (Europe only)
 [The Secret Circle Solutions](https://secretcircle.solutions/) | Ukraine, Kherson/Odesa | Software development services | [Website](https://secretcircle.solutions/), [Facebook](https://www.facebook.com/scrtcrcl/) | Ok (Europe only)
+[TimeToAct Group Austria](https://www.timetoact-group.at/) | Vienna, Austria | Software | [Blog post](https://www.timetoact-group.at/en/techblog/techblog/f-sharp-series/introduction-to-functional-programming-in-f-sharp-part) | Ok (Europe timezones only)
 [Tismo Technology Solutions](https://www.tismotech.com) | Bangalore, India | Software development services | [Website](https://www.tismotech.com) | No 
 [The Trainline](https://www.thetrainline.com) | UK,London | Software | [Stackshare](https://stackshare.io/trainline)
 [THEED](https://www.theed.technology) | Germany / Online | Software | | Ok (German speaking)
 [TotallyMoney](https://www.totallymoney.com) | United Kingdom, London | FinTech | [GitHub](https://github.com/totallymoney), [Stackshare](https://stackshare.io/totallymoney-com/totallymoney-com) | |
 [Trampoline](https://trampolineup.com) | Italy, Turin | Software/IoT | [GitHub](https://github.com/kiotlog)
-[Trustbit](https://trustbit.tech/) | Vienna, Austria | Software | [Blog post](https://trustbit.tech/blog/2020/08/09/introduction-to-functional-programming-in-f-sharp-table-of-contents) | Ok (Europe timezones only)
 [University of Arizona, College of Medicine - Tucson](https://medicine.arizona.edu/) | Tucson, Arizona, USA | Education | [GitHub](https://github.com/UACOMTucson) | No
 [Valora](https://www.valora.com/en/) | Switzerland, Zurich/Basel | Retail | | Ok (EU only)
 [Veepee](https://www.veepee.com) | France, Saint-Denis | E-commerce | [Twitter](https://twitter.com/veepeetech_), [GitHub](https://github.com/veepee-oss) | Ok (Europe only)
