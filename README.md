@@ -140,5 +140,5 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Welendus](https://welendus.com) | USA, TX, Dallas | FinTech | [Website](https://welendus.com) | 
 [White Oak AM](https://www.whiteoakam.com/) | Switzerland, Geneva | Finance | [Website](https://www.whiteoakam.com/) | No
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
-[Zastrpay Studios GmbH](https://zastrpay.com/) | Austria, Vienna | Software | | Ok
+[Zastrpay Studios GmbH](https://zastrpay.com/) | Austria, Vienna | Software | | Hybrid (Austria)
 [Zühlke Engineering](https://www.zuehlke.com/) | Germany | Software | | 
