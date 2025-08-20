@@ -109,6 +109,7 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Property With Potential](https://propertytorenovate.co.uk/) | UK,London | Software | [Stackshare](https://stackshare.io/property-with-potential/property-with-potential)
 [Prover Technology](https://www.prover.com/) | Sweden,Stockholm | SW/HW verification | |
 [Rhein-Spree Software Engineering GmbH](https://www.rhein-spree.com) | Germany, Berlin | Software | [GitHub](https://github.com/rheinspree) | Ok
+[Rhomberg Bau GmbH](https://jobs.rhomberg.com/) | Austria, Vienna | Architecture | [F# Editor made at Rhomberg](https://github.com/goswinr/Fesh) |
 [Robotmaster](https://www.robotmaster.com/en/) | Canada, Montreal, Quebec | Robotics | ?
 [Rocket Mortgage](https://www.rocketmortgage.com/) | USA, MI, Detroit | FinTech | | OK
 [Safe Banking Systems (Part of Accuity)](https://accuity.com/product/firco-screening-insight-for-accounts/) | NYC, NY and Kennesaw, GA | RiskTech | [Github](https://github.com/BayardRock) | No
