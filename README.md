@@ -11,7 +11,6 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 | Name | Location | Sector | Source | Remote OK? |
 | :--- | :------- | :----- | :----- | :--------- |
 [1WorldSync](https://1worldsync.com/) | Chicago | Software | |
-[5G Pay](https://5gpay.com/) | Austria, Vienna | Software | [Blog](https://5gpay.com/blog) | Ok
 [69 Grad](https://69grad.de/) | Germany, Munich | Software | [Blog](https://thomasbandt.com) | Ok
 [Aardworx GmbH](https://www.aardworx.com/) | Austria, Vienna | Software | |
 [Abramad](https://www.abramad.com/) | Tehran, Iran | Cloud Services | | Ok (Iran only)
@@ -142,4 +141,5 @@ Moirae Software Engineering Ltd | UK | Software | [Twitter](https://twitter.com/
 [Welendus](https://welendus.com) | USA, TX, Dallas | FinTech | [Website](https://welendus.com) | 
 [White Oak AM](https://www.whiteoakam.com/) | Switzerland, Geneva | Finance | [Website](https://www.whiteoakam.com/) | No
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
+[Zastrpay Studios GmbH](https://zastrpay.com/) | Austria, Vienna | Software | | Hybrid (Austria)
 [Zühlke Engineering](https://www.zuehlke.com/) | Germany | Software | | 
