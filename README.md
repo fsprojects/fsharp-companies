@@ -32,7 +32,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [CN Group CZ](https://www.cngroup.dk/) | Czech Republic, Prague | Software | [Twitter](https://twitter.com/cngroup_cz), [Website](https://www.cngroup.dk) | 
 [Connect Develop](https://connectdevelop.com/) | Australia, Brisbane | Software, Energy | [Website](https://connectdevelop.com/) | |
 [Connecto Data](https://connecto-data.com/) | Japan, Tokyo | Data Technology | [Website](https://connecto-data.com/), [delika](https://delika.io/) | Ok (Japan only)
-[Compositional IT](https://www.compositional-it.com) | United Kingdom, London | Software | [GitHub](https://github.com/compositionalit)
+[Compositional IT](https://www.compositional-it.com) | United Kingdom, London | Software | [Careers](https://www.compositional-it.com/careers), [GitHub](https://github.com/compositionalit), [Blog](https://www.compositional-it.com/news-blog/), [Twitter](https://twitter.com/compositionalit) | Hybrid(UK only)
 [Copenhagen Software](https://copenhagensoftware.com) | Denmark, Copenhagen / Lithuania, Vilnius | Software | [Twitter](https://twitter.com/cphsoft/status/1114106216509267968) | Ok
 [CraftTalk](https://crafttalk.ru) | Russia, Moscow | Software | [Website](https://crafttalk.ru) [Facebook](https://www.facebook.com/CraftTalkAI/) [Linkedin](https://www.linkedin.com/company/crafttalk/about/) | Ok (Russia Only)
 [CREE Buildings](https://www.creebuildings.com/) | Austria, Vienna | Architecture | [LinkedIn post](https://www.linkedin.com/posts/rothenthal_were-building-a-tool-that-turns-months-of-activity-7350808279834394624-lmAS/) | Hybrid (Vienna), but negotiable
