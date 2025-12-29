@@ -97,6 +97,7 @@ Moirae Software Engineering Ltd | UK | Software | [GitHub](https://github.com/Mo
 [NCR Corporation](https://www.ncr.com/) | Czech Republic, Prague | Software | [Twitter](https://twitter.com/NCRCorporation) [Instagram](https://www.instagram.com/ncrcorporation/) [Facebook](https://www.facebook.com/ncrcorp/) [JobPosting](https://ncr.wd1.myworkdayjobs.com/ext_non_us) [LinkedIn](https://www.linkedin.com/company/ncr-corporation/) | |
 [Node Effect](https://www.nodeffect.com/) | Spain & [GBA](https://en.wikipedia.org/wiki/Guangdong%E2%80%93Hong_Kong%E2%80%93Macao_Greater_Bay_Area) | Software (AI) & FinTech |  | Ok | 
 [NRK](https://www.nrk.no/) | Norway, Oslo | Media | [GitHub](https://github.com/nrkno) | | 
+[Oceanbox](https://oceanbox.io/) | Norway, Tromsø | Oceanography | [GitHub](https://github.com/oceanbox-io) | No |
 [Olo](https://www.olo.com) | USA, NY, New York | Restauration | [Github](https://github.com/ololabs?language=f%23)| Ok
 [Own](https://www.weown.com) | Germany, Munich | FinTech | [GitHub](https://github.com/OwnMarket?language=f%23)|
 [Peano System Inc.](https://peano-system.jp) | Remote, based at Aichi, Japan | Software | [GitHub](https://github.com/peano-system) [JobPosting](https://peano-system.jp/jobs) [PeanoCurvesApp](https://peano-curves.psapp.jp) | Ok
