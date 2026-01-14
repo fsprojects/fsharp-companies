@@ -107,6 +107,7 @@ Moirae Software Engineering Ltd | UK | Software | [GitHub](https://github.com/Mo
 [Prolucid](https://prolucid.ca) | Canada, Mississauga, Ontario | Software | [Website](https://prolucid.ca/open-sourcing-thunderdome-open-source-%E2%99%A5/) |
 [Property With Potential](https://propertytorenovate.co.uk/) | UK,London | Software | [Stackshare](https://stackshare.io/property-with-potential/property-with-potential)
 [Prover Technology](https://www.prover.com/) | Sweden,Stockholm | SW/HW verification | |
+[REN](https://www.ren.no) | Norway, Bergen | Electrical Power Line Modelling Software | [GitHub](https://github.com/ren-no) | No
 [Rhein-Spree Software Engineering GmbH](https://www.rhein-spree.com) | Germany, Berlin | Software | [GitHub](https://github.com/rheinspree) | Ok
 [Robotmaster](https://www.robotmaster.com/en/) | Canada, Montreal, Quebec | Robotics | ?
 [Rocket Mortgage](https://www.rocketmortgage.com/) | USA, MI, Detroit | FinTech | | OK
