@@ -32,7 +32,6 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [CN Group CZ](https://www.cngroup.dk/) | Czech Republic, Prague | Software | [Twitter](https://twitter.com/cngroup_cz), [Website](https://www.cngroup.dk) | 
 [Connect Develop](https://connectdevelop.com/) | Australia, Brisbane | Software, Energy | [Website](https://connectdevelop.com/) | |
 [Connecto Data](https://connecto-data.com/) | Japan, Tokyo | Data Technology | [Website](https://connecto-data.com/), [delika](https://delika.io/) | Ok (Japan only)
-[Compositional IT](https://www.compositional-it.com) | United Kingdom, London | Software | [GitHub](https://github.com/compositionalit)
 [Copenhagen Software](https://copenhagensoftware.com) | Denmark, Copenhagen / Lithuania, Vilnius | Software | [Twitter](https://twitter.com/cphsoft/status/1114106216509267968) | Ok
 [CraftTalk](https://crafttalk.ru) | Russia, Moscow | Software | [Website](https://crafttalk.ru) [Facebook](https://www.facebook.com/CraftTalkAI/) [Linkedin](https://www.linkedin.com/company/crafttalk/about/) | Ok (Russia Only)
 [CREE Buildings](https://www.creebuildings.com/) | Austria, Vienna | Architecture | [LinkedIn post](https://www.linkedin.com/posts/rothenthal_were-building-a-tool-that-turns-months-of-activity-7350808279834394624-lmAS/) | Hybrid (Vienna), but negotiable
@@ -58,7 +57,6 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [FlareHR](https://www.flarehr.com/) | Sydney, Australia | FinTech, Software | [Website](https://www.flarehr.com/), [LinkedIn](https://www.linkedin.com/company/flareaus/) | No
 [Fronius](https://fronius.com/) | Austria, Wels | Electrical Equipment | [Website](https://fronius.com), [Facebook](https://www.facebook.com/fronius.int/) | 
 [Functor](https://www.functor.team) | Serbia, Belgrade / Russia, Izhevsk | Software | [Website](https://www.functor.team) | Ok |
-[Fund Ourselves](https://www.fundourselves.com) | UK, London | FinTech, P2P | [Twitter](https://twitter.com/fundourselves) | 
 [FundApps](https://www.fundapps.co) | UK, London | Software | [Stackshare](https://stackshare.io/fundapps#technology)
 [Futurelab](https://futurelabspa.it) | Italy, Bassano del Grappa | Software | | 
 [Fuzzy Cloud](https://fuzzycloud.in) | Ahmedabad, Gujarat, India | Software Development and Consulting Services | [Github](https://github.com/fuzzycloud/) | Ok |
@@ -140,7 +138,6 @@ Moirae Software Engineering Ltd | UK | Software | [GitHub](https://github.com/Mo
 [vlot.](https://www.vlot.ch) | Switzerland, Zürich/Basel | Insurance, InsurTech | [GitHub](https://github.com/vlot), [Twitter](https://twitter.com/vlotltd), [Stack Overflow](https://stackoverflow.com/jobs/companies/vlot), [LinkedIn](https://www.linkedin.com/company/vlot-ltd)
 [Walmart Labs](https://www.walmartlabs.com) | Mountain View, CA | Retail | [Github](https://github.com/walmartlabs) [Twitter](https://twitter.com/WalmartLabs) [LinkedIn](https://www.linkedin.com/company/walmart-labs)
 [Wavecom](https://wavecom.io) | Moscow, Russia | Software | [Website](https://wavecom.io/) | Ok
-[Welendus](https://welendus.com) | USA, TX, Dallas | FinTech | [Website](https://welendus.com) | 
 [White Oak AM](https://www.whiteoakam.com/) | Switzerland, Geneva | Finance | [Website](https://www.whiteoakam.com/) | No
 [Wyatt Technology](https://www.wyatt.com/) | USA, CA, Santa Barbara | Analytical Instruments |  | Ok
 [Zastrpay Studios GmbH](https://zastrpay.com/) | Austria, Vienna | Software | | Hybrid (Austria)
