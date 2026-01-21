@@ -71,6 +71,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [Hymans Robertson LLP](https://www.hymans.co.uk/) | UK | Finance | [Slideshare](https://www.slideshare.net/KeithHarrison4/why-hymans-use-f)
 [IDTechEx](https://www.idtechex.com) | UK, Cambridge | Market Research |
 [Imperfect Foods](https://www.imperfectfoods.com) | USA, CA, San Francisco | Food Services | [Hacker News](https://news.ycombinator.com/item?id=21128684) | Ok
+[Infotech](https://infotech.no/) | Norway, Bergen | Software for construction industry | Added by [lead dev](https://infotech.no/om-oss/) | Ok
 [InCommodities](https://incommodities.com/) | Denmark, Aarhus | FinTech/Trading | [Website](https://incommodities.com/#careers)
 [Insurello](https://insurello.se/) | Sweden, Stockholm | InsurTech | [Github](https://github.com/insurello/) | Ok (part time, Sweden only)
 [IntelliFactory](http://intellifactory.com) | Hungary, Budapest | Software | [Github](https://github.com/intellifactory?utf8=✓&q=&type=&language=f%23)
