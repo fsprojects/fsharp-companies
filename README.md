@@ -88,6 +88,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [Lokad](https://www.lokad.com) | France, Paris | Software | [Careers](https://www.lokad.com/software-engineering) |
 [Lula](https://www.lula.is) | USA, FL, Miami | Insurtech | [Careers](https://www.lula.is/careers) | Ok
 [Masse](https://shopmasse.com) | USA, NY, New York | eCommerce | [Twitter](https://twitter.com/shop_masse), [Instagram](https://instagram.com/shop_masse)
+[Medoma](https://www.medoma.com) | Sweden, Stockholm | Healthcare | [Careers](https://career.medoma.com/en-GB) | OK (part time) 
 [Microdesk](https://www.microdesk.com/) | USA, UK, Remote | BIM | [Careers](https://www.microdesk.com/career-opportunities/), [Twitter](https://twitter.com/MicrodeskInc) | Ok
 [Microsoft](https://www.microsoft.com) | Worldwide | Software | [GitHub](https://github.com/dotnet/fsharp) | Ok
 [Millenium Management](https://www.mlp.com/home/) | USA, NY, New York | Finance | [Job Posting](https://mlp.wd5.myworkdayjobs.com/en-US/mlpcareers/job/New-York-NY---666-5th-Ave/C--Software-Engineer_REQ-8518-1)
